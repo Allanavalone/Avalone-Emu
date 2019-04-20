@@ -2,6 +2,7 @@
 partagé gratuitement part l'équipe** 
 -
 Aucun support ! le git peut etre à jours quand j'ai du temps libre 
+
 **Pourquoi le partagé ?** 
 _Alors tout simplement parce-que nous passons sur une version 2.51
 pour aussi faire plaisir de partagé un emulateur 2.43 stable et un peut plus débug que d'autre_
