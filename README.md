@@ -58,16 +58,16 @@ Enclos
 
 **Mine toute disponible !**
 il faut Ajouté des PNJ pour la téléportations dans les mine comme l'officiel
-	Amakna Mine Istairameur [-3,9]
-	Amakna Mine Yjupe [0,-3]
-	Amakna Soutterains 2 [4,28]
-	Amakna Territoire des Porcos [1,32]
-	Mine Gisboul [-17,21]
-	Mine Estrone [-26,5]
-	Mine Hipouce [-23,21] & [-25,22]
-	Mine Volcan [-26,22]
-	Grotte Hative [-25,45]
-	Grotte Urie [-18,14]
+Amakna Mine Istairameur [-3,9]
+Amakna Mine Yjupe [0,-3]
+Amakna Soutterains 2 [4,28]
+Amakna Territoire des Porcos [1,32]
+Mine Gisboul [-17,21]
+Mine Estrone [-26,5]
+Mine Hipouce [-23,21] & [-25,22]
+Mine Volcan [-26,22]
+Grotte Hative [-25,45]
+Grotte Urie [-18,14]
 	Mine Campement des Bworks [-7,7]
 	Mine Campement des Bworks V [-6,6]
 	Mine Campement des Gobelins [-4,2]
@@ -134,7 +134,7 @@ il faut Ajouté des PNJ pour la téléportations dans les mine comme l'officiel
 
 +
 
-## Vous avait ici un émulateur qui vos entre. 200 à 300 euro.
+## Vous avait ici un émulateur qui vos entre. 100 à 200 euro.
 ## la source les debug la base de donné. 1 ans de travaille partagé gratuitement.
 ## Pour évité des arnaque faite attentions !!! 
 ## Notre projet risque d’être téléchargé modifier pour être vendu part des membres dans l'emulations, alors que les modifications ne seront que des connerie. :D
