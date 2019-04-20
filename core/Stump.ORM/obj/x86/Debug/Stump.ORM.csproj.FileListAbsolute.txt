@@ -1,0 +1,7 @@
+E:\Erosis\new server\Core\Stump.ORM\bin\x86\Debug\Stump.ORM.dll
+E:\Erosis\new server\Core\Stump.ORM\bin\x86\Debug\Stump.ORM.pdb
+E:\Erosis\new server\Core\Stump.ORM\bin\x86\Debug\MySql.Data.dll
+E:\Erosis\new server\Core\Stump.ORM\bin\x86\Debug\MySql.Data.xml
+E:\Erosis\new server\Core\Stump.ORM\obj\x86\Debug\Stump.ORM.csproj.CoreCompileInputs.cache
+E:\Erosis\new server\Core\Stump.ORM\obj\x86\Debug\Stump.ORM.dll
+E:\Erosis\new server\Core\Stump.ORM\obj\x86\Debug\Stump.ORM.pdb

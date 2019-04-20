@@ -1,0 +1,5 @@
+E:\Erosis\new server\DofusProtocol\Enums\bin\x86\Debug\Stump.DofusProtocol.Enums.dll
+E:\Erosis\new server\DofusProtocol\Enums\bin\x86\Debug\Stump.DofusProtocol.Enums.pdb
+E:\Erosis\new server\DofusProtocol\Enums\obj\x86\Debug\Stump.DofusProtocol.Enums.csproj.CoreCompileInputs.cache
+E:\Erosis\new server\DofusProtocol\Enums\obj\x86\Debug\Stump.DofusProtocol.Enums.dll
+E:\Erosis\new server\DofusProtocol\Enums\obj\x86\Debug\Stump.DofusProtocol.Enums.pdb

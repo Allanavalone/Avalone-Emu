@@ -1,0 +1,2 @@
+E:\Erosis\new server\server\Stump.Server.BaseServer\obj\x86\Debug\Stump.Server.BaseServer.csprojResolveAssemblyReference.cache
+E:\Erosis\new server\server\Stump.Server.BaseServer\obj\x86\Debug\Stump.Server.BaseServer.csproj.CoreCompileInputs.cache

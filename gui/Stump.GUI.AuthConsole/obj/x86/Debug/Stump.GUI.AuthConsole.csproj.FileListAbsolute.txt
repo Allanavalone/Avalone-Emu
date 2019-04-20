@@ -1,0 +1,1 @@
+E:\Erosis\new server\GUI\Stump.GUI.AuthConsole\obj\x86\Debug\Stump.GUI.AuthConsole.csproj.CoreCompileInputs.cache

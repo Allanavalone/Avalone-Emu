@@ -1,0 +1,613 @@
+﻿<Configuration>
+  <Stump>
+    <Server>
+      <BaseServer>
+        <ServerBase>
+          <!--Editable as Running : False-->
+          <Variable name="IOTaskInterval" serialized="false">50</Variable>
+          <!--Editable as Running : False-->
+          <Variable name="ScheduledAutomaticShutdown" serialized="false">False</Variable>
+          <!--Editable as Running : False-->
+          <Variable name="AutomaticShutdownTimer" serialized="false">360</Variable>
+          <!--Editable as Running : False-->
+          <Variable name="CommandsInfoFilePath" serialized="false">./commands.xml</Variable>
+          <!--Editable as Running : True-->
+          <Variable name="IsExceptionLoggerEnabled" serialized="false">False</Variable>
+          <!--Editable as Running : False-->
+          <Variable name="ExceptionLoggerDSN" serialized="false" />
+        </ServerBase>
+        <ConsoleBase>
+          <!--Editable as Running : True-->
+          <Variable name="AskWaiterInterval" serialized="false">20</Variable>
+        </ConsoleBase>
+        <Settings>
+          <!--Editable as Running : False-->
+          <Variable name="EnableBenchmarking" serialized="false">False</Variable>
+          <!--Editable as Running : False-->
+          <Variable name="InactivityDisconnectionTime" serialized="true">
+            <int>900</int>
+          </Variable>
+          <!--Editable as Running : False-->
+          <Variable name="Language" serialized="true">
+            <Languages>French</Languages>
+          </Variable>
+        </Settings>
+        <Logging>
+          <MongoLogger>
+            <!--Editable as Running : True-->
+            <Variable name="IsMongoLoggerEnabled" serialized="false">False</Variable>
+            <!--Editable as Running : True-->
+            <Variable name="MongoDBConfiguration" serialized="true">
+              <DatabaseConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                <User>root</User>
+              <Password></Password>
+              <DbName>world</DbName>
+              <Host>localhost</Host>
+                <Port>3306</Port>
+              </DatabaseConfiguration>
+            </Variable>
+          </MongoLogger>
+        </Logging>
+      </BaseServer>
+      <WorldServer>
+        <WorldServer>
+          <!--Editable as Running : False-->
+          <Variable name="Host" serialized="false">127.0.0.1</Variable>
+          <!--Editable as Running : False-->
+          <Variable name="Port" serialized="false">5555</Variable>
+          <!--Editable as Running : True-->
+          <Variable name="ServerInformation" serialized="true">
+            <WorldServerData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+              <Id>1</Id>
+              <Address>127.0.0.1</Address>
+              <Port>5555</Port>
+              <Name>Jiva</Name>
+              <Capacity>2000</Capacity>
+              <RequiredRole>Player</RequiredRole>
+              <RequireSubscription>false</RequireSubscription>
+            </WorldServerData>
+          </Variable>
+          <!--Editable as Running : False-->
+          <Variable name="DatabaseConfiguration" serialized="true">
+            <DatabaseConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+              <User>root</User>
+              <Password></Password>
+              <DbName>world</DbName>
+              <Host>localhost</Host>
+              <Port>3306</Port>
+              <ProviderName>MySql.Data.MySqlClient</ProviderName>
+            </DatabaseConfiguration>
+          </Variable>
+          <!--Editable as Running : True-->
+          <Variable name="AutoSaveInterval" serialized="false">180</Variable>
+          <!--Editable as Running : True-->
+          <Variable name="SaveMessage" serialized="false">True</Variable>
+        </WorldServer>
+        <Rates>
+          <!--Editable as Running : True-->
+          <Variable name="RegenRate" serialized="false">2</Variable>
+          <!--Editable as Running : True-->
+          <Variable name="XpRate" serialized="false">15</Variable>
+          <!--Editable as Running : True-->
+          <Variable name="KamasRate" serialized="false">1</Variable>
+          <!--Editable as Running : True-->
+          <Variable name="DropsRate" serialized="false">1</Variable>
+          <!--Editable as Running : True-->
+          <Variable name="JobXpRate" serialized="false">1</Variable>
+        </Rates>
+        <Settings>
+          <!--Editable as Running : True-->
+          <Variable name="MOTD" serialized="false">Bienvenue sur Avalone ! Tapez .help pour voir la liste des commandes disponibles.</Variable>
+          <!--Editable as Running : True-->
+          <Variable name="HtmlMOTDColor" serialized="false">Orange</Variable>
+        </Settings>
+      </WorldServer>
+      <BaseServer>
+        <Benchmark>
+          <BenchmarkManager>
+            <!--Editable as Running : True-->
+            <Variable name="Enable" serialized="false">False</Variable>
+            <!--Editable as Running : True-->
+            <Variable name="BenchmarkingType" serialized="true">
+              <BenchmarkingType>Complete</BenchmarkingType>
+            </Variable>
+            <!--Editable as Running : True-->
+            <Variable name="EntriesLimit" serialized="false">1000000</Variable>
+          </BenchmarkManager>
+        </Benchmark>
+        <Commands>
+          <CommandBase>
+            <!--Editable as Running : False-->
+            <Variable name="IgnoreCommandCase" serialized="false">True</Variable>
+          </CommandBase>
+        </Commands>
+        <Network>
+          <BaseClient>
+            <!--Editable as Running : True-->
+            <Variable name="LogPackets" serialized="false">True</Variable>
+            <!--Editable as Running : True-->
+            <Variable name="MessagesEntriesLimit" serialized="false">20</Variable>
+            <!--Editable as Running : True-->
+            <Variable name="FloodCheck" serialized="false">True</Variable>
+            <!--Editable as Running : True-->
+            <Variable name="FloodMinTime" serialized="false">3</Variable>
+            <!--Editable as Running : True-->
+            <Variable name="MessagesWhitelist" serialized="true">
+              <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                <string>GameActionAcknowledgementMessage</string>
+                <string>GameFightTurnReadyMessage</string>
+              </ArrayOfString>
+            </Variable>
+          </BaseClient>
+          <ClientManager>
+            <!--Editable as Running : False-->
+            <Variable name="MaxConcurrentConnections" serialized="false">2000</Variable>
+            <!--Editable as Running : False-->
+            <Variable name="MaxPendingConnections" serialized="false">100</Variable>
+            <!--Editable as Running : False-->
+            <Variable name="MaxIPConnexions" serialized="true">
+              <int>10</int>
+            </Variable>
+            <!--Editable as Running : False-->
+            <Variable name="BufferSize" serialized="false">8192</Variable>
+          </ClientManager>
+          <VersionExtension>
+            <!--Editable as Running : True-->
+            <Variable name="Severity" serialized="true">
+              <VersionCheckingSeverity>Light</VersionCheckingSeverity>
+            </Variable>
+            <!--Editable as Running : True-->
+            <Variable name="ExpectedVersion" serialized="true">
+              <Version xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                <major>2</major>
+                <minor>43</minor>
+                <release>0</release>
+                <revision>121441</revision>
+                <patch>4</patch>
+                <buildType>0</buildType>
+              </Version>
+            </Variable>
+            <!--Editable as Running : True-->
+            <Variable name="ActualProtocol" serialized="false">1692</Variable>
+            <!--Editable as Running : True-->
+            <Variable name="ProtocolRequired" serialized="false">1692</Variable>
+          </VersionExtension>
+        </Network>
+        <Plugins>
+          <PluginManager>
+            <!--Editable as Running : True-->
+            <Variable name="PluginsPath" serialized="true">
+              <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                <string>./plugins/</string>
+              </ArrayOfString>
+            </Variable>
+          </PluginManager>
+        </Plugins>
+      </BaseServer>
+      <WorldServer>
+        <AI>
+          <Fights>
+            <Brain>
+              <Brain>
+                <!--Editable as Running : True-->
+                <Variable name="DebugMode" serialized="false">False</Variable>
+              </Brain>
+            </Brain>
+          </Fights>
+        </AI>
+        <Commands>
+          <Commands>
+            <AnnounceCommand>
+              <!--Editable as Running : True-->
+              <Variable name="AnnounceColor" serialized="false">Orange</Variable>
+            </AnnounceCommand>
+            <ItemListCommand>
+              <!--Editable as Running : False-->
+              <Variable name="LimitItemList" serialized="false">50</Variable>
+            </ItemListCommand>
+            <WhoCommand>
+              <!--Editable as Running : False-->
+              <Variable name="DisplayedElementsLimit" serialized="false">50</Variable>
+            </WhoCommand>
+          </Commands>
+          <Trigger>
+            <TriggerChat>
+              <!--Editable as Running : True-->
+              <Variable name="HtmlErrorColor" serialized="false">Red</Variable>
+            </TriggerChat>
+          </Trigger>
+        </Commands>
+        <Core>
+          <IO>
+            <WorldConsole>
+              <!--Editable as Running : False-->
+              <Variable name="CommandPreffix" serialized="false" />
+            </WorldConsole>
+          </IO>
+          <IPC>
+            <IPCAccessor>
+              <!--Editable as Running : True-->
+              <Variable name="DefaultRequestTimeout" serialized="false">60</Variable>
+              <!--Editable as Running : True-->
+              <Variable name="TaskPoolInterval" serialized="false">150</Variable>
+              <!--Editable as Running : True-->
+              <Variable name="UpdateInterval" serialized="false">10000</Variable>
+              <!--Editable as Running : False-->
+              <Variable name="BufferSize" serialized="false">8192</Variable>
+              <!--Editable as Running : False-->
+              <Variable name="RemoteHost" serialized="false">127.0.0.1</Variable>
+              <!--Editable as Running : False-->
+              <Variable name="RemotePort" serialized="false">9000</Variable>
+            </IPCAccessor>
+          </IPC>
+        </Core>
+        <Game>
+          <Accounts>
+            <AccountManager>
+              <!--Editable as Running : True-->
+              <Variable name="AccountBlockMaxDelay" serialized="false">20</Variable>
+            </AccountManager>
+          </Accounts>
+          <Actors>
+            <Fight>
+              <SummonedBomb>
+                <!--Editable as Running : False-->
+                <Variable name="BombLimit" serialized="false">3</Variable>
+                <!--Editable as Running : False-->
+                <Variable name="WallMinSize" serialized="false">1</Variable>
+                <!--Editable as Running : False-->
+                <Variable name="WallMaxSize" serialized="false">6</Variable>
+                <!--Editable as Running : False-->
+                <Variable name="ExplosionZone" serialized="false">2</Variable>
+              </SummonedBomb>
+            </Fight>
+            <RolePlay>
+              <Characters>
+                <Character>
+                  <!--Editable as Running : False-->
+                  <Variable name="HonorLimit" serialized="false">20000</Variable>
+                </Character>
+                <CharacterManager>
+                  <!--Editable as Running : True-->
+                  <Variable name="MaxCharacterSlot" serialized="false">5</Variable>
+                </CharacterManager>
+                <PrestigeManager>
+                  <!--Editable as Running : False-->
+                  <Variable name="PrestigeTitles" serialized="true">
+                    <ArrayOfShort xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                      <short>527</short>
+                      <short>528</short>
+                      <short>529</short>
+                      <short>530</short>
+                      <short>531</short>
+                      <short>532</short>
+                      <short>533</short>
+                      <short>534</short>
+                      <short>535</short>
+                      <short>536</short>
+                    </ArrayOfShort>
+                  </Variable>
+                </PrestigeManager>
+              </Characters>
+              <Monsters>
+                <MonsterGroup>
+                  <!--Editable as Running : True-->
+                  <Variable name="StarsBonusRate" serialized="false">50</Variable>
+                  <!--Editable as Running : True-->
+                  <Variable name="StarsBonusLimit" serialized="false">200</Variable>
+                </MonsterGroup>
+              </Monsters>
+              <Mounts>
+                <Mount>
+                  <!--Editable as Running : True-->
+                  <Variable name="RequiredLevel" serialized="false">60</Variable>
+                </Mount>
+                <MountManager>
+                  <!--Editable as Running : False-->
+                  <Variable name="MountStorageValidityDays" serialized="false">40</Variable>
+                </MountManager>
+              </Mounts>
+              <TaxCollectors>
+                <TaxCollectorNpc>
+                  <!--Editable as Running : False-->
+                  <Variable name="BaseAP" serialized="false">6</Variable>
+                  <!--Editable as Running : False-->
+                  <Variable name="BaseMP" serialized="false">5</Variable>
+                  <!--Editable as Running : False-->
+                  <Variable name="BaseResistance" serialized="false">25</Variable>
+                  <!--Editable as Running : False-->
+                  <Variable name="MaxGatheredXPTotal" serialized="false">2000000</Variable>
+                  <!--Editable as Running : False-->
+                  <Variable name="MaxGatheredXPFight" serialized="false">150000</Variable>
+                  <!--Editable as Running : False-->
+                  <Variable name="MaxTaxCollectorsPercentPerArea" serialized="false">1</Variable>
+                </TaxCollectorNpc>
+              </TaxCollectors>
+            </RolePlay>
+            <Stats>
+              <StatsFields>
+                <!--Editable as Running : False-->
+                <Variable name="MPLimit" serialized="false">6</Variable>
+                <!--Editable as Running : False-->
+                <Variable name="APLimit" serialized="false">12</Variable>
+                <!--Editable as Running : False-->
+                <Variable name="ResistanceLimit" serialized="false">50</Variable>
+                <!--Editable as Running : False-->
+                <Variable name="RangeLimit" serialized="false">6</Variable>
+              </StatsFields>
+            </Stats>
+          </Actors>
+          <Arena>
+            <ArenaManager>
+              <!--Editable as Running : False-->
+              <Variable name="MaxPlayersPerFights" serialized="false">3</Variable>
+              <!--Editable as Running : False-->
+              <Variable name="ArenaMinLevel" serialized="false">50</Variable>
+              <!--Editable as Running : False-->
+              <Variable name="ArenaMaxLevelDifference" serialized="false">40</Variable>
+              <!--Editable as Running : False-->
+              <Variable name="ArenaUpdateInterval" serialized="false">100</Variable>
+              <!--Editable as Running : False-->
+              <Variable name="ArenaMatchmakingInterval" serialized="false">30</Variable>
+              <!--Editable as Running : False-->
+              <Variable name="ArenaPenalityTime" serialized="false">30</Variable>
+              <!--Editable as Running : False-->
+              <Variable name="ArenaWaitTime" serialized="false">10</Variable>
+              <!--Editable as Running : False-->
+              <Variable name="KolizeumMapId" serialized="false">81788928</Variable>
+            </ArenaManager>
+            <ArenaParty>
+              <!--Editable as Running : False-->
+              <Variable name="MaxArenaMemberCount" serialized="false">3</Variable>
+            </ArenaParty>
+            <ArenaPopup>
+              <!--Editable as Running : False-->
+              <Variable name="DisplayTime" serialized="false">60</Variable>
+            </ArenaPopup>
+            <ArenaQueueMember>
+              <!--Editable as Running : False-->
+              <Variable name="ArenaMargeIncreasePerMinutes" serialized="false">30</Variable>
+              <!--Editable as Running : True-->
+              <Variable name="ArenaCheckIP" serialized="false">True</Variable>
+            </ArenaQueueMember>
+          </Arena>
+          <Breeds>
+            <BreedManager>
+              <!--Editable as Running : False-->
+              <Variable name="AvailableBreeds" serialized="true">
+                <ArrayOfPlayableBreedEnum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                  <PlayableBreedEnum>Feca</PlayableBreedEnum>
+                  <PlayableBreedEnum>Osamodas</PlayableBreedEnum>
+                  <PlayableBreedEnum>Enutrof</PlayableBreedEnum>
+                  <PlayableBreedEnum>Sram</PlayableBreedEnum>
+                  <PlayableBreedEnum>Xelor</PlayableBreedEnum>
+                  <PlayableBreedEnum>Ecaflip</PlayableBreedEnum>
+                  <PlayableBreedEnum>Eniripsa</PlayableBreedEnum>
+                  <PlayableBreedEnum>Iop</PlayableBreedEnum>
+                  <PlayableBreedEnum>Cra</PlayableBreedEnum>
+                  <PlayableBreedEnum>Sadida</PlayableBreedEnum>
+                  <PlayableBreedEnum>Sacrieur</PlayableBreedEnum>
+                  <PlayableBreedEnum>Pandawa</PlayableBreedEnum>
+                  <PlayableBreedEnum>Roublard</PlayableBreedEnum>
+                  <PlayableBreedEnum>Zobal</PlayableBreedEnum>
+                  <PlayableBreedEnum>Steamer</PlayableBreedEnum>
+                  <PlayableBreedEnum>Eliotrope</PlayableBreedEnum>
+                  <PlayableBreedEnum>Huppermage</PlayableBreedEnum>
+				  <PlayableBreedEnum>Ouginak</PlayableBreedEnum>
+                </ArrayOfPlayableBreedEnum>
+              </Variable>
+            </BreedManager>
+          </Breeds>
+          <Effects>
+            <Handlers>
+              <Usables>
+                <StatBonus>
+                  <!--Editable as Running : False-->
+                  <Variable name="StatBonusLimit" serialized="false">100</Variable>
+                </StatBonus>
+              </Usables>
+            </Handlers>
+          </Effects>
+          <Exchanges>
+            <Craft>
+              <Runes>
+                <RuneManager>
+                  <!--Editable as Running : False-->
+                  <Variable name="DecraftHistoryLimit" serialized="false">1000</Variable>
+                  <!--Editable as Running : False-->
+                  <Variable name="DecraftPercentile" serialized="false">0.5</Variable>
+                </RuneManager>
+              </Runes>
+            </Craft>
+          </Exchanges>
+          <Fights>
+            <FightConfiguration>
+              <!--Editable as Running : False-->
+              <Variable name="PlacementPhaseTime" serialized="false">30000</Variable>
+              <!--Editable as Running : False-->
+              <Variable name="TurnTime" serialized="false">15000</Variable>
+              <!--Editable as Running : False-->
+              <Variable name="MaxTurnTime" serialized="false">60000</Variable>
+              <!--Editable as Running : False-->
+              <Variable name="TurnEndTimeOut" serialized="false">5000</Variable>
+              <!--Editable as Running : False-->
+              <Variable name="EndFightTimeOut" serialized="false">10000</Variable>
+              <!--Editable as Running : False-->
+              <Variable name="TurnsBeforeDisconnection" serialized="false">20</Variable>
+            </FightConfiguration>
+            <FightPvT>
+              <!--Editable as Running : False-->
+              <Variable name="PvTAttackersPlacementPhaseTime" serialized="false">30000</Variable>
+              <!--Editable as Running : False-->
+              <Variable name="PvTDefendersPlacementPhaseTime" serialized="false">10000</Variable>
+              <!--Editable as Running : False-->
+              <Variable name="PvTMaxFightersSlots" serialized="false">5</Variable>
+            </FightPvT>
+            <ReadyChecker>
+              <!--Editable as Running : True-->
+              <Variable name="CheckTimeout" serialized="false">5000</Variable>
+            </ReadyChecker>
+            <History>
+              <MovementHistory>
+                <!--Editable as Running : False-->
+                <Variable name="HistoryEntriesLimit" serialized="false">60</Variable>
+              </MovementHistory>
+              <SpellHistory>
+                <!--Editable as Running : False-->
+                <Variable name="HistoryEntriesLimit" serialized="false">60</Variable>
+              </SpellHistory>
+            </History>
+          </Fights>
+          <Guilds>
+            <Guild>
+              <!--Editable as Running : True-->
+              <Variable name="BaseMaxMembers" serialized="false">30</Variable>
+              <!--Editable as Running : True-->
+              <Variable name="MaxGuildXP" serialized="false">500000</Variable>
+            </Guild>
+          </Guilds>
+          <Idols>
+            <IdolInventory>
+              <!--Editable as Running : False-->
+              <Variable name="MaxActiveIdols" serialized="false">6</Variable>
+            </IdolInventory>
+          </Idols>
+          <Interactives>
+            <Skills>
+              <SkillHarvest>
+                <!--Editable as Running : True-->
+                <Variable name="StarsBonusRate" serialized="false">1000</Variable>
+                <!--Editable as Running : True-->
+                <Variable name="StarsBonusLimit" serialized="false">200</Variable>
+                <!--Editable as Running : False-->
+                <Variable name="HarvestTime" serialized="false">3000</Variable>
+                <!--Editable as Running : False-->
+                <Variable name="RegrowTime" serialized="false">60000</Variable>
+              </SkillHarvest>
+            </Skills>
+          </Interactives>
+          <Items>
+            <BidHouse>
+              <BidHouseManager>
+                <!--Editable as Running : False-->
+                <Variable name="TaxPercent" serialized="false">2</Variable>
+                <!--Editable as Running : False-->
+                <Variable name="TaxModificationPercent" serialized="false">1</Variable>
+              </BidHouseManager>
+            </BidHouse>
+            <Player>
+              <Bank>
+                <!--Editable as Running : False-->
+                <Variable name="PricePerItem" serialized="false">1</Variable>
+              </Bank>
+              <Inventory>
+                <!--Editable as Running : False-->
+                <Variable name="ActiveTokens" serialized="false">True</Variable>
+                <!--Editable as Running : False-->
+                <Variable name="TokenTemplateId" serialized="false">12124</Variable>
+                <!--Editable as Running : True-->
+                <Variable name="WeightEnabled" serialized="false">False</Variable>
+				<!--Editable as Running : True-->
+                <Variable name="MaxInventoryKamas" serialized="false">2000000000</Variable>
+                <!--Editable as Running : True-->
+                <Variable name="MaxPresets" serialized="false">8</Variable>
+              </Inventory>
+              <Custom>
+                <PetItem>
+                  <!--Editable as Running : False-->
+                  <Variable name="MealsPerBonus" serialized="false">3</Variable>
+                </PetItem>
+              </Custom>
+            </Player>
+          </Items>
+          <Maps>
+            <Area>
+              <!--Editable as Running : False-->
+              <Variable name="DefaultUpdateDelay" serialized="false">50</Variable>
+            </Area>
+            <Map>
+              <!--Editable as Running : True-->
+              <Variable name="MaxMerchantsPerMap" serialized="false">5</Variable>
+              <!--Editable as Running : True-->
+              <Variable name="AutoMoveActorMaxInverval" serialized="false">40</Variable>
+              <!--Editable as Running : True-->
+              <Variable name="AutoMoveActorMinInverval" serialized="false">20</Variable>
+              <!--Editable as Running : True-->
+              <Variable name="InteractiveUseAdditionalDelay" serialized="false">500</Variable>
+            </Map>
+            <Pathfinding>
+              <Pathfinder>
+                <!--Editable as Running : True-->
+                <Variable name="SearchLimit" serialized="false">500</Variable>
+                <!--Editable as Running : True-->
+                <Variable name="EstimateHeuristic" serialized="false">1</Variable>
+              </Pathfinder>
+            </Pathfinding>
+            <Spawns>
+              <DungeonSpawningPool>
+                <!--Editable as Running : True-->
+                <Variable name="DungeonSpawnsInterval" serialized="false">30</Variable>
+              </DungeonSpawningPool>
+              <StaticSpawningPool>
+                <!--Editable as Running : True-->
+                <Variable name="StaticSpawnsInterval" serialized="false">3</Variable>
+              </StaticSpawningPool>
+            </Spawns>
+          </Maps>
+          <Misc>
+            <AutoAnnounceManager>
+              <!--Editable as Running : False-->
+              <Variable name="AnnouncesDelaySeconds" serialized="false">600</Variable>
+            </AutoAnnounceManager>
+          </Misc>
+          <Social>
+            <ChatHistory>
+              <!--Editable as Running : False-->
+              <Variable name="MaxChatEntries" serialized="false">50</Variable>
+            </ChatHistory>
+            <ChatManager>
+              <!--Editable as Running : False-->
+              <Variable name="CommandPrefix" serialized="false">.</Variable>
+              <!--Editable as Running : False-->
+              <Variable name="AdministratorChatMinAccess" serialized="true">
+                <RoleEnum>Moderator</RoleEnum>
+              </Variable>
+              <!--Editable as Running : False-->
+              <Variable name="AntiFloodTimeBetweenTwoMessages" serialized="false">500</Variable>
+              <!--Editable as Running : False-->
+              <Variable name="AntiFloodTimeBetweenTwoGlobalMessages" serialized="false">60</Variable>
+              <!--Editable as Running : False-->
+              <Variable name="AntiFloodAllowedMessages" serialized="false">4</Variable>
+              <!--Editable as Running : False-->
+              <Variable name="AntiFloodAllowedMessagesResetTime" serialized="false">10</Variable>
+              <!--Editable as Running : False-->
+              <Variable name="AntiFloodMuteTime" serialized="false">10</Variable>
+            </ChatManager>
+            <FriendsBook>
+              <!--Editable as Running : True-->
+              <Variable name="MaxFriendsNumber" serialized="false">30</Variable>
+            </FriendsBook>
+          </Social>
+        </Game>
+        <Handlers>
+          <Characters>
+            <CharacterHandler>
+              <!--Editable as Running : False-->
+              <Variable name="EnableNameSuggestion" serialized="false">True</Variable>
+              <!--Editable as Running : False-->
+              <Variable name="MaxDayCharacterDeletion" serialized="false">5</Variable>
+            </CharacterHandler>
+          </Characters>
+        </Handlers>
+        <WebAPI>
+          <WebServer>
+            <!--Editable as Running : False-->
+            <Variable name="WebAPIPort" serialized="false">9000</Variable>
+            <!--Editable as Running : True-->
+            <Variable name="WebAPIKey" serialized="false">AojfiejfU84738</Variable>
+          </WebServer>
+        </WebAPI>
+      </WorldServer>
+    </Server>
+  </Stump>
+</Configuration>

@@ -1,0 +1,2 @@
+E:\Erosis\new server\DofusProtocol\Messages\obj\x64\Debug\Stump.DofusProtocol.Messages.csprojResolveAssemblyReference.cache
+E:\Erosis\new server\DofusProtocol\Messages\obj\x64\Debug\Stump.DofusProtocol.Messages.csproj.CoreCompileInputs.cache

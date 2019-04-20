@@ -1,0 +1,26 @@
+-------------Fatal at 07/23/2017 21:19:55------------- 
+ Stump.Server.BaseServer.ServerBase.HandleCrashException -> 
+	 Crash Exception : Impossible de charger un ou plusieurs des types requis. Extrayez la propriété LoaderExceptions pour plus d'informations.
+ Source: mscorlib -> System.RuntimeType[] GetTypes(System.Reflection.RuntimeModule)
+ Stack Trace:
+   à System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   à System.Reflection.RuntimeModule.GetTypes()
+   à System.Reflection.Assembly.GetTypes()
+   à Stump.Core.Xml.Config.XmlConfig.LoadNodesFromAssemblies() dans C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\core\Stump.Core\Xml\Config\XmlConfig.cs:ligne 281
+   à Stump.Core.Xml.Config.XmlConfig.Create(Boolean overwrite) dans C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\core\Stump.Core\Xml\Config\XmlConfig.cs:ligne 104
+   à Stump.Server.BaseServer.ServerBase.Initialize() dans E:\Erosis\new server\server\Stump.Server.BaseServer\ServerBase.cs:ligne 246
+   à Stump.Server.BaseServer.ServerBase`1.Initialize() dans E:\Erosis\new server\server\Stump.Server.BaseServer\ServerBase.cs:ligne 578
+   à Stump.Server.WorldServer.WorldServer.Initialize() dans E:\Erosis\new server\server\stump.server.worldserver\WorldServer.cs:ligne 94
+   à Stump.GUI.WorldConsole.Program.Main(String[] args) dans E:\Erosis\new server\GUI\Stump.GUI.WorldConsole\Program.cs:ligne 18 
+-------------Fatal at 07/23/2017 21:19:55------------- 
+
+-------------Fatal at 07/23/2017 21:19:55------------- 
+ Stump.Server.BaseServer.ServerBase.HandleCrashException -> 
+	 Crash Exception : La référence d'objet n'est pas définie à une instance d'un objet.
+ Source: Stump.Server.WorldServer -> Void OnShutdown()
+ Stack Trace:
+   à Stump.Server.WorldServer.WorldServer.OnShutdown() dans E:\Erosis\new server\server\stump.server.worldserver\WorldServer.cs:ligne 291
+   à Stump.Server.BaseServer.ServerBase.Shutdown() dans E:\Erosis\new server\server\Stump.Server.BaseServer\ServerBase.cs:ligne 534
+   à Stump.GUI.WorldConsole.Program.Main(String[] args) dans E:\Erosis\new server\GUI\Stump.GUI.WorldConsole\Program.cs:ligne 34 
+-------------Fatal at 07/23/2017 21:19:55------------- 
+

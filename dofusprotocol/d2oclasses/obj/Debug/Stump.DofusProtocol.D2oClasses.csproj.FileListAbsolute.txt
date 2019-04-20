@@ -1,0 +1,22 @@
+E:\Erosis\new server\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.csprojResolveAssemblyReference.cache
+E:\Erosis\new server\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.csproj.CoreCompileInputs.cache
+E:\Erosis\new server\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.dll
+E:\Erosis\new server\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.pdb
+E:\Erosis\new server\DofusProtocol\D2oClasses\bin\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+E:\Erosis\new server\DofusProtocol\D2oClasses\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+E:\Erosis\new server\DofusProtocol\D2oClasses\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+E:\Erosis\new server\DofusProtocol\D2oClasses\bin\Debug\Stump.Core.dll
+E:\Erosis\new server\DofusProtocol\D2oClasses\bin\Debug\zlib.net.dll
+E:\Erosis\new server\DofusProtocol\D2oClasses\bin\Debug\Stump.Core.pdb
+E:\Erosis\new server\DofusProtocol\D2oClasses\bin\Debug\Stump.Core.dll.config
+C:\Users\Administrateur\Desktop\calistya\DofusProtocol\D2oClasses\bin\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+C:\Users\Administrateur\Desktop\calistya\DofusProtocol\D2oClasses\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Administrateur\Desktop\calistya\DofusProtocol\D2oClasses\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Administrateur\Desktop\calistya\DofusProtocol\D2oClasses\bin\Debug\Stump.Core.dll
+C:\Users\Administrateur\Desktop\calistya\DofusProtocol\D2oClasses\bin\Debug\zlib.net.dll
+C:\Users\Administrateur\Desktop\calistya\DofusProtocol\D2oClasses\bin\Debug\Stump.Core.pdb
+C:\Users\Administrateur\Desktop\calistya\DofusProtocol\D2oClasses\bin\Debug\Stump.Core.dll.config
+C:\Users\Administrateur\Desktop\calistya\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.csprojResolveAssemblyReference.cache
+C:\Users\Administrateur\Desktop\calistya\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\calistya\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Administrateur\Desktop\calistya\DofusProtocol\D2oClasses\obj\Debug\Stump.DofusProtocol.D2oClasses.pdb

@@ -1,0 +1,2 @@
+E:\Erosis\new server\GUI\Stump.GUI.AuthConsole\obj\x64\Debug\Stump.GUI.AuthConsole.csprojResolveAssemblyReference.cache
+E:\Erosis\new server\GUI\Stump.GUI.AuthConsole\obj\x64\Debug\Stump.GUI.AuthConsole.csproj.CoreCompileInputs.cache

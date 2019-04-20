@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D7BFF8ED-065B-4A53-9805-595DFEA75A0A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Stump.DofusProtocol.Enums</RootNamespace>
+    <AssemblyName>Stump.DofusProtocol.Enums</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <CodeContractsAssemblyMode>0</CodeContractsAssemblyMode>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Debug\Stump.DofusProtocol.Enums.dll.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>true</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>true</CodeAnalysisIgnoreBuiltInRules>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Release\Stump.DofusProtocol.Enums.dll.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Debug\Stump.DofusProtocol.Enums.dll.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>false</CodeAnalysisFailOnMissingRules>
+    <CodeContractsEnableRuntimeChecking>False</CodeContractsEnableRuntimeChecking>
+    <CodeContractsRuntimeOnlyPublicSurface>False</CodeContractsRuntimeOnlyPublicSurface>
+    <CodeContractsRuntimeThrowOnFailure>True</CodeContractsRuntimeThrowOnFailure>
+    <CodeContractsRuntimeCallSiteRequires>False</CodeContractsRuntimeCallSiteRequires>
+    <CodeContractsRuntimeSkipQuantifiers>False</CodeContractsRuntimeSkipQuantifiers>
+    <CodeContractsRunCodeAnalysis>False</CodeContractsRunCodeAnalysis>
+    <CodeContractsNonNullObligations>False</CodeContractsNonNullObligations>
+    <CodeContractsBoundsObligations>False</CodeContractsBoundsObligations>
+    <CodeContractsArithmeticObligations>False</CodeContractsArithmeticObligations>
+    <CodeContractsEnumObligations>False</CodeContractsEnumObligations>
+    <CodeContractsRedundantAssumptions>False</CodeContractsRedundantAssumptions>
+    <CodeContractsRunInBackground>True</CodeContractsRunInBackground>
+    <CodeContractsShowSquigglies>False</CodeContractsShowSquigglies>
+    <CodeContractsUseBaseLine>False</CodeContractsUseBaseLine>
+    <CodeContractsEmitXMLDocs>False</CodeContractsEmitXMLDocs>
+    <CodeContractsCustomRewriterAssembly />
+    <CodeContractsCustomRewriterClass />
+    <CodeContractsLibPaths />
+    <CodeContractsExtraRewriteOptions />
+    <CodeContractsExtraAnalysisOptions />
+    <CodeContractsBaseLineFile />
+    <CodeContractsCacheAnalysisResults>False</CodeContractsCacheAnalysisResults>
+    <CodeContractsRuntimeCheckingLevel>Full</CodeContractsRuntimeCheckingLevel>
+    <CodeContractsReferenceAssembly>DoNotBuild</CodeContractsReferenceAssembly>
+    <CodeContractsAnalysisWarningLevel>0</CodeContractsAnalysisWarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Release\Stump.DofusProtocol.Enums.dll.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>false</CodeAnalysisFailOnMissingRules>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug-uptodate|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\Debug-uptodate\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug-uptodate|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug-uptodate\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug-uptodate|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug-uptodate\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Custom\AcquaintanceErrorEnum.cs" />
+    <Compile Include="Custom\ActionsEnum.cs" />
+    <Compile Include="Custom\ChallengeEnum.cs" />
+    <Compile Include="Custom\ChallengeStatusEnum.cs" />
+    <Compile Include="Custom\CharacteristicEnum.cs" />
+    <Compile Include="Custom\DonjonEnum.cs" />
+    <Compile Include="Custom\ExchangeCraftResultEnum.cs" />
+    <Compile Include="Custom\GuildCreationResultEnum.cs" />
+    <Compile Include="Custom\GuildInvitationStateEnum.cs" />
+    <Compile Include="Custom\InteractiveStateEnum.cs" />
+    <Compile Include="Custom\InteractiveTypeEnum.cs" />
+    <Compile Include="Custom\ItemSuperTypeEnum.cs" />
+    <Compile Include="Custom\JobEnum.cs" />
+    <Compile Include="Custom\MagicPoolStatus.cs" />
+    <Compile Include="Custom\MimicryErrorEnum.cs" />
+    <Compile Include="Custom\MountStateEnum.cs" />
+    <Compile Include="Custom\NotificationEnum.cs" />
+    <Compile Include="Custom\OptionalFeaturesEnum.cs" />
+    <Compile Include="Custom\OrnamentEnum.cs" />
+    <Compile Include="Custom\PartyFightReasonEnum.cs" />
+    <Compile Include="Custom\ProtocolConstantsEnum.cs" />
+    <Compile Include="Custom\QuestObjectiveTypeEnum.cs" />
+    <Compile Include="Custom\ServerConstantTypeEnum.cs" />
+    <Compile Include="Custom\SkillTemplateEnum.cs" />
+    <Compile Include="Custom\SmileyPacksEnum.cs" />
+    <Compile Include="Custom\SpellShapeEnum.cs" />
+    <Compile Include="Custom\StableExchangeActionsEnum.cs" />
+    <Compile Include="Custom\StatsBoostTypeEnum.cs" />
+    <Compile Include="Custom\ContinentIdEnum.cs" />
+    <Compile Include="Custom\MountBehaviorEnum.cs" />
+    <Compile Include="Custom\MapType.cs" />
+    <Compile Include="Custom\EffectsEnum.cs" />
+    <Compile Include="Custom\EmotesEnum.cs" />
+    <Compile Include="Custom\ItemCategoryEnum.cs" />
+    <Compile Include="Custom\ItemIdEnum.cs" />
+    <Compile Include="Custom\ItemTypeEnum.cs" />
+    <Compile Include="Custom\MapIdEnum.cs" />
+    <Compile Include="Custom\MapNeighbourEnum.cs" />
+    <Compile Include="Custom\MonsterIdEnum.cs" />
+    <Compile Include="Custom\MonsterRaceIdEnum.cs" />
+    <Compile Include="Custom\NpcActionTypeEnum.cs" />
+    <Compile Include="Custom\RegionIdEnum.cs" />
+    <Compile Include="Custom\RoleEnum.cs" />
+    <Compile Include="Custom\SexTypeEnum.cs" />
+    <Compile Include="Custom\SpellIdEnum.cs" />
+    <Compile Include="Custom\SpellStatesEnum.cs" />
+    <Compile Include="Custom\SpellTypesEnum.cs" />
+    <Compile Include="Custom\PlayerFields.cs" />
+    <Compile Include="Custom\ZoneIdEnum.cs" />
+    <Compile Include="Custom\SpellTargetType.cs" />
+    <Compile Include="Export\enums\AccessoryPreviewErrorEnum.cs" />
+    <Compile Include="Export\enums\AggressableStatusEnum.cs" />
+    <Compile Include="Export\enums\AlignmentSideEnum.cs" />
+    <Compile Include="Export\enums\AllianceRightsBitEnum.cs" />
+    <Compile Include="Export\enums\BoostableCharacteristicEnum.cs" />
+    <Compile Include="Export\enums\BreedEnum.cs" />
+    <Compile Include="Export\enums\BuildTypeEnum.cs" />
+    <Compile Include="Export\enums\CharacterCreationResultEnum.cs" />
+    <Compile Include="Export\enums\CharacterDeletionErrorEnum.cs" />
+    <Compile Include="Export\enums\CharacterInventoryPositionEnum.cs" />
+    <Compile Include="Export\enums\CharacterRemodelingEnum.cs" />
+    <Compile Include="Export\enums\CharacterSpellModificationTypeEnum.cs" />
+    <Compile Include="Export\enums\ChatActivableChannelsEnum.cs" />
+    <Compile Include="Export\enums\ChatChannelsMultiEnum.cs" />
+    <Compile Include="Export\enums\ChatErrorEnum.cs" />
+    <Compile Include="Export\enums\ClientInstallTypeEnum.cs" />
+    <Compile Include="Export\enums\ClientTechnologyEnum.cs" />
+    <Compile Include="Export\enums\CompassTypeEnum.cs" />
+    <Compile Include="Export\enums\ConsoleMessageTypeEnum.cs" />
+    <Compile Include="Export\enums\CraftResultEnum.cs" />
+    <Compile Include="Export\enums\DareCriteriaTypeEnum.cs" />
+    <Compile Include="Export\enums\DareErrorEnum.cs" />
+    <Compile Include="Export\enums\DebugLevelEnum.cs" />
+    <Compile Include="Export\enums\DelayedActionTypeEnum.cs" />
+    <Compile Include="Export\enums\DialogTypeEnum.cs" />
+    <Compile Include="Export\enums\DirectionsEnum.cs" />
+    <Compile Include="Export\enums\ExchangeErrorEnum.cs" />
+    <Compile Include="Export\enums\ExchangeReplayStopReasonEnum.cs" />
+    <Compile Include="Export\enums\ExchangeTypeEnum.cs" />
+    <Compile Include="Export\enums\FightDispellableEnum.cs" />
+    <Compile Include="Export\enums\FighterRefusedReasonEnum.cs" />
+    <Compile Include="Export\enums\FightOptionsEnum.cs" />
+    <Compile Include="Export\enums\FightOutcomeEnum.cs" />
+    <Compile Include="Export\enums\FightSpellCastCriticalEnum.cs" />
+    <Compile Include="Export\enums\FightTypeEnum.cs" />
+    <Compile Include="Export\enums\GameActionFightInvisibilityStateEnum.cs" />
+    <Compile Include="Export\enums\GameActionMarkCellsTypeEnum.cs" />
+    <Compile Include="Export\enums\GameActionMarkTypeEnum.cs" />
+    <Compile Include="Export\enums\GameContextEnum.cs" />
+    <Compile Include="Export\enums\GameHierarchyEnum.cs" />
+    <Compile Include="Export\enums\GuestLimitationEnum.cs" />
+    <Compile Include="Export\enums\GuildInformationsTypeEnum.cs" />
+    <Compile Include="Export\enums\GuildRightsBitEnum.cs" />
+    <Compile Include="Export\enums\HaapiTokenTypeEnum.cs" />
+    <Compile Include="Export\enums\HardcoreOrEpicDeathStateEnum.cs" />
+    <Compile Include="Export\enums\HavenBagDailyLoteryErrorEnum.cs" />
+    <Compile Include="Export\enums\IdentificationFailureReasonEnum.cs" />
+    <Compile Include="Export\enums\ListAddFailureEnum.cs" />
+    <Compile Include="Export\enums\MapObstacleStateEnum.cs" />
+    <Compile Include="Export\enums\MountEquipedErrorEnum.cs" />
+    <Compile Include="Export\enums\NicknameErrorEnum.cs" />
+    <Compile Include="Export\enums\NicknameGeneratingFailureEnum.cs" />
+    <Compile Include="Export\enums\ObjectErrorEnum.cs" />
+    <Compile Include="Export\enums\PartStateEnum.cs" />
+    <Compile Include="Export\enums\PartyJoinErrorEnum.cs" />
+    <Compile Include="Export\enums\PartyNameErrorEnum.cs" />
+    <Compile Include="Export\enums\PartyTypeEnum.cs" />
+    <Compile Include="Export\enums\PlayableBreedEnum.cs" />
+    <Compile Include="Export\enums\PlayerLifeStatusEnum.cs" />
+    <Compile Include="Export\enums\PlayerStateEnum.cs" />
+    <Compile Include="Export\enums\PlayerStatusEnum.cs" />
+    <Compile Include="Export\enums\PresetDeleteResultEnum.cs" />
+    <Compile Include="Export\enums\PresetSaveResultEnum.cs" />
+    <Compile Include="Export\enums\PresetSaveUpdateErrorEnum.cs" />
+    <Compile Include="Export\enums\PresetUseResultEnum.cs" />
+    <Compile Include="Export\enums\PrismListenEnum.cs" />
+    <Compile Include="Export\enums\PrismSetSabotagedRefusedReasonEnum.cs" />
+    <Compile Include="Export\enums\PrismStateEnum.cs" />
+    <Compile Include="Export\enums\PvpArenaStepEnum.cs" />
+    <Compile Include="Export\enums\PvpArenaTypeEnum.cs" />
+    <Compile Include="Export\enums\SequenceTypeEnum.cs" />
+    <Compile Include="Export\enums\ServerCompletionEnum.cs" />
+    <Compile Include="Export\enums\ServerConnectionErrorEnum.cs" />
+    <Compile Include="Export\enums\ServerStatusEnum.cs" />
+    <Compile Include="Export\enums\ShortcutBarEnum.cs" />
+    <Compile Include="Export\enums\SocialContactCategoryEnum.cs" />
+    <Compile Include="Export\enums\SocialGroupCreationResultEnum.cs" />
+    <Compile Include="Export\enums\SocialGroupInvitationStateEnum.cs" />
+    <Compile Include="Export\enums\SocialNoticeErrorEnum.cs" />
+    <Compile Include="Export\enums\StatisticTypeEnum.cs" />
+    <Compile Include="Export\enums\StatsUpgradeResultEnum.cs" />
+    <Compile Include="Export\enums\SubEntityBindingPointCategoryEnum.cs" />
+    <Compile Include="Export\enums\SubscriptionRequiredEnum.cs" />
+    <Compile Include="Export\enums\TaxCollectorErrorReasonEnum.cs" />
+    <Compile Include="Export\enums\TaxCollectorMovementTypeEnum.cs" />
+    <Compile Include="Export\enums\TaxCollectorStateEnum.cs" />
+    <Compile Include="Export\enums\TeamEnum.cs" />
+    <Compile Include="Export\enums\TeamTypeEnum.cs" />
+    <Compile Include="Export\enums\TeleporterTypeEnum.cs" />
+    <Compile Include="Export\enums\TextInformationTypeEnum.cs" />
+    <Compile Include="Export\enums\TreasureHuntDigRequestEnum.cs" />
+    <Compile Include="Export\enums\TreasureHuntFlagRequestEnum.cs" />
+    <Compile Include="Export\enums\TreasureHuntFlagStateEnum.cs" />
+    <Compile Include="Export\enums\TreasureHuntRequestEnum.cs" />
+    <Compile Include="Export\enums\TreasureHuntTypeEnum.cs" />
+    <Compile Include="Export\enums\UpdatableMountBoostEnum.cs" />
+    <Compile Include="Extensions\DirectionsEnumExtensions.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

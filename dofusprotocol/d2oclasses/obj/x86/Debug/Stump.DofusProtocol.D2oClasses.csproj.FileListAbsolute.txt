@@ -1,0 +1,2 @@
+E:\Erosis\new server\DofusProtocol\D2oClasses\obj\x86\Debug\Stump.DofusProtocol.D2oClasses.csprojResolveAssemblyReference.cache
+E:\Erosis\new server\DofusProtocol\D2oClasses\obj\x86\Debug\Stump.DofusProtocol.D2oClasses.csproj.CoreCompileInputs.cache

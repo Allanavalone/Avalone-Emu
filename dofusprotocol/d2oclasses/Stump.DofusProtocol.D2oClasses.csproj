@@ -1,0 +1,499 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{33093793-C4BA-4B89-AC82-6E9D00437452}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Stump.DofusProtocol.D2oClasses</RootNamespace>
+    <AssemblyName>Stump.DofusProtocol.D2oClasses</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <CodeContractsAssemblyMode>0</CodeContractsAssemblyMode>
+    <TargetFrameworkProfile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>67</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>2</WarningLevel>
+    <NoWarn>67</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <NoWarn>67</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Debug\Stump.DofusProtocol.D2oClasses.dll.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>true</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>true</CodeAnalysisIgnoreBuiltInRules>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>67</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Release\Stump.DofusProtocol.D2oClasses.dll.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <NoWarn>67</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Debug\Stump.DofusProtocol.D2oClasses.dll.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>false</CodeAnalysisFailOnMissingRules>
+    <CodeContractsEnableRuntimeChecking>False</CodeContractsEnableRuntimeChecking>
+    <CodeContractsRuntimeOnlyPublicSurface>False</CodeContractsRuntimeOnlyPublicSurface>
+    <CodeContractsRuntimeThrowOnFailure>True</CodeContractsRuntimeThrowOnFailure>
+    <CodeContractsRuntimeCallSiteRequires>False</CodeContractsRuntimeCallSiteRequires>
+    <CodeContractsRuntimeSkipQuantifiers>False</CodeContractsRuntimeSkipQuantifiers>
+    <CodeContractsRunCodeAnalysis>False</CodeContractsRunCodeAnalysis>
+    <CodeContractsNonNullObligations>False</CodeContractsNonNullObligations>
+    <CodeContractsBoundsObligations>False</CodeContractsBoundsObligations>
+    <CodeContractsArithmeticObligations>False</CodeContractsArithmeticObligations>
+    <CodeContractsEnumObligations>False</CodeContractsEnumObligations>
+    <CodeContractsRedundantAssumptions>False</CodeContractsRedundantAssumptions>
+    <CodeContractsRunInBackground>True</CodeContractsRunInBackground>
+    <CodeContractsShowSquigglies>False</CodeContractsShowSquigglies>
+    <CodeContractsUseBaseLine>False</CodeContractsUseBaseLine>
+    <CodeContractsEmitXMLDocs>False</CodeContractsEmitXMLDocs>
+    <CodeContractsCustomRewriterAssembly />
+    <CodeContractsCustomRewriterClass />
+    <CodeContractsLibPaths />
+    <CodeContractsExtraRewriteOptions />
+    <CodeContractsExtraAnalysisOptions />
+    <CodeContractsBaseLineFile />
+    <CodeContractsCacheAnalysisResults>False</CodeContractsCacheAnalysisResults>
+    <CodeContractsRuntimeCheckingLevel>Full</CodeContractsRuntimeCheckingLevel>
+    <CodeContractsReferenceAssembly>DoNotBuild</CodeContractsReferenceAssembly>
+    <CodeContractsAnalysisWarningLevel>0</CodeContractsAnalysisWarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>67</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Release\Stump.DofusProtocol.D2oClasses.dll.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>false</CodeAnalysisFailOnMissingRules>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug-uptodate|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\Debug-uptodate\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <NoWarn>67</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug-uptodate|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug-uptodate\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <NoWarn>67</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug-uptodate|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug-uptodate\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <NoWarn>67</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="NLog">
+      <HintPath>..\..\..\..\Documents\Visual Studio 2015\Projects\Stump\Stump.GUI.WorldConsole\bin\Debug\NLog.dll</HintPath>
+    </Reference>
+    <Reference Include="Stump.Core, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\run\debug\WorldServer\Stump.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AnimFunData.cs" />
+    <Compile Include="AnimFunMonsterData.cs" />
+    <Compile Include="AnimFunNpcData.cs" />
+    <Compile Include="Classes\abuse\AbuseReasons.cs" />
+    <Compile Include="Classes\alignments\AlignmentBalance.cs" />
+    <Compile Include="Classes\alignments\AlignmentEffect.cs" />
+    <Compile Include="Classes\alignments\AlignmentGift.cs" />
+    <Compile Include="Classes\alignments\AlignmentOrder.cs" />
+    <Compile Include="Classes\alignments\AlignmentRank.cs" />
+    <Compile Include="Classes\alignments\AlignmentRankJntGift.cs" />
+    <Compile Include="Classes\alignments\AlignmentSide.cs" />
+    <Compile Include="Classes\alignments\AlignmentTitle.cs" />
+    <Compile Include="Classes\almanax\AlmanaxCalendar.cs" />
+    <Compile Include="Classes\ambientSounds\AmbientSound.cs" />
+    <Compile Include="Classes\ambientSounds\PlaylistSound.cs" />
+    <Compile Include="Classes\appearance\Appearance.cs" />
+    <Compile Include="Classes\appearance\CreatureBoneOverride.cs" />
+    <Compile Include="Classes\appearance\CreatureBoneType.cs" />
+    <Compile Include="Classes\appearance\Ornament.cs" />
+    <Compile Include="Classes\appearance\SkinMapping.cs" />
+    <Compile Include="Classes\appearance\SkinPosition.cs" />
+    <Compile Include="Classes\appearance\Title.cs" />
+    <Compile Include="Classes\appearance\TitleCategory.cs" />
+    <Compile Include="Classes\bonus\Bonus.cs" />
+    <Compile Include="Classes\bonus\criterion\BonusAreaCriterion.cs" />
+    <Compile Include="Classes\bonus\criterion\BonusCriterion.cs" />
+    <Compile Include="Classes\bonus\criterion\BonusEquippedItemCriterion.cs" />
+    <Compile Include="Classes\bonus\criterion\BonusMonsterCriterion.cs" />
+    <Compile Include="Classes\bonus\criterion\BonusMonsterFamilyCriterion.cs" />
+    <Compile Include="Classes\bonus\criterion\BonusQuestCategoryCriterion.cs" />
+    <Compile Include="Classes\bonus\criterion\BonusSubAreaCriterion.cs" />
+    <Compile Include="Classes\bonus\MonsterBonus.cs" />
+    <Compile Include="Classes\bonus\MonsterDropChanceBonus.cs" />
+    <Compile Include="Classes\bonus\MonsterLightBonus.cs" />
+    <Compile Include="Classes\bonus\MonsterStarRateBonus.cs" />
+    <Compile Include="Classes\bonus\MonsterXPBonus.cs" />
+    <Compile Include="Classes\bonus\MountBonus.cs" />
+    <Compile Include="Classes\bonus\QuestBonus.cs" />
+    <Compile Include="Classes\bonus\QuestKamasBonus.cs" />
+    <Compile Include="Classes\bonus\QuestXPBonus.cs" />
+    <Compile Include="Classes\breeds\Breed.cs" />
+    <Compile Include="Classes\breeds\BreedRole.cs" />
+    <Compile Include="Classes\breeds\BreedRoleByBreed.cs" />
+    <Compile Include="Classes\breeds\Head.cs" />
+    <Compile Include="Classes\challenges\Challenge.cs" />
+    <Compile Include="Classes\characteristics\Characteristic.cs" />
+    <Compile Include="Classes\characteristics\CharacteristicCategory.cs" />
+    <Compile Include="Classes\communication\CensoredWord.cs" />
+    <Compile Include="Classes\communication\ChatChannel.cs" />
+    <Compile Include="Classes\communication\Emoticon.cs" />
+    <Compile Include="Classes\communication\InfoMessage.cs" />
+    <Compile Include="Classes\communication\NamingRules.cs" />
+    <Compile Include="Classes\communication\Smiley.cs" />
+    <Compile Include="Classes\communication\SmileyCategory.cs" />
+    <Compile Include="Classes\communication\SmileyPack.cs" />
+    <Compile Include="Classes\dare\DareCriteria.cs" />
+    <Compile Include="Classes\documents\Comic.cs" />
+    <Compile Include="Classes\documents\Document.cs" />
+    <Compile Include="Classes\effects\Effect.cs" />
+    <Compile Include="Classes\effects\EffectInstance.cs" />
+    <Compile Include="Classes\effects\instances\EffectInstanceCreature.cs" />
+    <Compile Include="Classes\effects\instances\EffectInstanceDate.cs" />
+    <Compile Include="Classes\effects\instances\EffectInstanceDice.cs" />
+    <Compile Include="Classes\effects\instances\EffectInstanceDuration.cs" />
+    <Compile Include="Classes\effects\instances\EffectInstanceInteger.cs" />
+    <Compile Include="Classes\effects\instances\EffectInstanceLadder.cs" />
+    <Compile Include="Classes\effects\instances\EffectInstanceMinMax.cs" />
+    <Compile Include="Classes\effects\instances\EffectInstanceMount.cs" />
+    <Compile Include="Classes\effects\instances\EffectInstanceString.cs" />
+    <Compile Include="Classes\externalnotifications\ExternalNotification.cs" />
+    <Compile Include="Classes\guild\EmblemBackground.cs" />
+    <Compile Include="Classes\guild\EmblemSymbol.cs" />
+    <Compile Include="Classes\guild\EmblemSymbolCategory.cs" />
+    <Compile Include="Classes\guild\RankName.cs" />
+    <Compile Include="Classes\houses\HavenbagFurniture.cs" />
+    <Compile Include="Classes\houses\HavenbagTheme.cs" />
+    <Compile Include="Classes\houses\House.cs" />
+    <Compile Include="Classes\idols\Idol.cs" />
+    <Compile Include="Classes\idols\IdolsPresetIcon.cs" />
+    <Compile Include="Classes\interactives\Interactive.cs" />
+    <Compile Include="Classes\interactives\SkillName.cs" />
+    <Compile Include="Classes\interactives\StealthBones.cs" />
+    <Compile Include="Classes\items\criterion\AccountRightsItemCriterion.cs" />
+    <Compile Include="Classes\items\criterion\AchievementItemCriterion.cs" />
+    <Compile Include="Classes\items\criterion\AlignmentItemCriterion.cs" />
+    <Compile Include="Classes\items\criterion\AlignmentLevelItemCriterion.cs" />
+    <Compile Include="Classes\items\criterion\AllianceAvAItemCriterion.cs" />
+    <Compile Include="Classes\items\criterion\AllianceItemCriterion.cs" />
+    <Compile Include="Classes\items\criterion\AllianceRightsItemCriterion.cs" />
+    <Compile Include="Classes\items\criterion\AreaItemCriterion.cs" />
+    <Compile Include="Classes\items\criterion\ArenaDuelRankCriterion.cs" />
+    <Compile Include="Classes\items\criterion\ArenaMaxDuelRankCriterion.cs" />
+    <Compile Include="Classes\items\criterion\ArenaMaxSoloRankCriterion.cs" />
+    <Compile Include="Classes\items\criterion\ArenaMaxTeamRankCriterion.cs" />
+    <Compile Include="Classes\items\criterion\ArenaSoloRankCriterion.cs" />
+    <Compile Include="Classes\items\criterion\ArenaTeamRankCriterion.cs" />
+    <Compile Include="Classes\items\criterion\BonesItemCriterion.cs" />
+    <Compile Include="Classes\items\criterion\BonusSetItemCriterion.cs" />
+    <Compile Include="Classes\items\criterion\BreedItemCriterion.cs" />
+    <Compile Include="Classes\items\criterion\CommunityItemCriterion.cs" />
+    <Compile Include="Classes\items\criterion\DayItemCriterion.cs" />
+    <Compile Include="Classes\items\criterion\EmoteItemCriterion.cs" />
+    <Compile Include="Classes\items\criterion\FriendlistItemCriterion.cs" />
+    <Compile Include="Classes\items\criterion\GiftItemCriterion.cs" />
+    <Compile Include="Classes\items\criterion\GroupItemCriterion.cs" />
+    <Compile Include="Classes\items\criterion\GuildItemCriterion.cs" />
+    <Compile Include="Classes\items\criterion\GuildLevelItemCriterion.cs" />
+    <Compile Include="Classes\items\criterion\GuildRightsItemCriterion.cs" />
+    <Compile Include="Classes\items\criterion\ItemCriterion.cs" />
+    <Compile Include="Classes\items\criterion\ItemCriterionFactory.cs" />
+    <Compile Include="Classes\items\criterion\ItemCriterionOperator.cs" />
+    <Compile Include="Classes\items\criterion\JobItemCriterion.cs" />
+    <Compile Include="Classes\items\criterion\KamaItemCriterion.cs" />
+    <Compile Include="Classes\items\criterion\LevelItemCriterion.cs" />
+    <Compile Include="Classes\items\criterion\MapCharactersItemCriterion.cs" />
+    <Compile Include="Classes\items\criterion\MariedItemCriterion.cs" />
+    <Compile Include="Classes\items\criterion\MonthItemCriterion.cs" />
+    <Compile Include="Classes\items\criterion\MountFamilyItemCriterion.cs" />
+    <Compile Include="Classes\items\criterion\NameItemCriterion.cs" />
+    <Compile Include="Classes\items\criterion\ObjectItemCriterion.cs" />
+    <Compile Include="Classes\items\criterion\PremiumAccountItemCriterion.cs" />
+    <Compile Include="Classes\items\criterion\PrestigeLevelItemCriterion.cs" />
+    <Compile Include="Classes\items\criterion\PVPRankItemCriterion.cs" />
+    <Compile Include="Classes\items\criterion\QuestItemCriterion.cs" />
+    <Compile Include="Classes\items\criterion\RideItemCriterion.cs" />
+    <Compile Include="Classes\items\criterion\ServerItemCriterion.cs" />
+    <Compile Include="Classes\items\criterion\SexItemCriterion.cs" />
+    <Compile Include="Classes\items\criterion\SkillItemCriterion.cs" />
+    <Compile Include="Classes\items\criterion\SmileyPackItemCriterion.cs" />
+    <Compile Include="Classes\items\criterion\SoulStoneItemCriterion.cs" />
+    <Compile Include="Classes\items\criterion\SpecializationItemCriterion.cs" />
+    <Compile Include="Classes\items\criterion\SpellItemCriterion.cs" />
+    <Compile Include="Classes\items\criterion\StaticCriterionItemCriterion.cs" />
+    <Compile Include="Classes\items\criterion\SubareaItemCriterion.cs" />
+    <Compile Include="Classes\items\criterion\SubscribeItemCriterion.cs" />
+    <Compile Include="Classes\items\criterion\SubscriptionDurationItemCriterion.cs" />
+    <Compile Include="Classes\items\criterion\UnusableItemCriterion.cs" />
+    <Compile Include="Classes\items\criterion\WeightItemCriterion.cs" />
+    <Compile Include="Classes\items\Incarnation.cs" />
+    <Compile Include="Classes\items\IncarnationLevel.cs" />
+    <Compile Include="Classes\items\Item.cs" />
+    <Compile Include="Classes\items\ItemSet.cs" />
+    <Compile Include="Classes\items\ItemType.cs" />
+    <Compile Include="Classes\items\PresetIcon.cs" />
+    <Compile Include="Classes\items\VeteranReward.cs" />
+    <Compile Include="Classes\items\Weapon.cs" />
+    <Compile Include="Classes\jobs\Job.cs" />
+    <Compile Include="Classes\jobs\Recipe.cs" />
+    <Compile Include="Classes\jobs\Skill.cs" />
+    <Compile Include="Classes\livingObjects\LivingObjectSkinJntMood.cs" />
+    <Compile Include="Classes\livingObjects\Pet.cs" />
+    <Compile Include="Classes\livingObjects\SpeakingItemsTrigger.cs" />
+    <Compile Include="Classes\livingObjects\SpeakingItemText.cs" />
+    <Compile Include="Classes\misc\ActionDescription.cs" />
+    <Compile Include="Classes\misc\CensoredContent.cs" />
+    <Compile Include="Classes\misc\Month.cs" />
+    <Compile Include="Classes\misc\OptionalFeature.cs" />
+    <Compile Include="Classes\misc\Pack.cs" />
+    <Compile Include="Classes\misc\Tips.cs" />
+    <Compile Include="Classes\misc\TypeAction.cs" />
+    <Compile Include="Classes\misc\Url.cs" />
+    <Compile Include="Classes\monsters\Companion.cs" />
+    <Compile Include="Classes\monsters\CompanionCharacteristic.cs" />
+    <Compile Include="Classes\monsters\CompanionSpell.cs" />
+    <Compile Include="Classes\monsters\Monster.cs" />
+    <Compile Include="Classes\monsters\MonsterDrop.cs" />
+    <Compile Include="Classes\monsters\MonsterGrade.cs" />
+    <Compile Include="Classes\monsters\MonsterMiniBoss.cs" />
+    <Compile Include="Classes\monsters\MonsterRace.cs" />
+    <Compile Include="Classes\monsters\MonsterSuperRace.cs" />
+    <Compile Include="Classes\mounts\Mount.cs" />
+    <Compile Include="Classes\mounts\MountBehavior.cs" />
+    <Compile Include="Classes\mounts\MountBone.cs" />
+    <Compile Include="Classes\mounts\MountFamily.cs" />
+    <Compile Include="Classes\mounts\RideFood.cs" />
+    <Compile Include="Classes\notifications\Notification.cs" />
+    <Compile Include="Classes\npcs\Npc.cs" />
+    <Compile Include="Classes\npcs\NpcAction.cs" />
+    <Compile Include="Classes\npcs\NpcMessage.cs" />
+    <Compile Include="Classes\npcs\TaxCollectorFirstname.cs" />
+    <Compile Include="Classes\npcs\TaxCollectorName.cs" />
+    <Compile Include="Classes\playlists\Playlist.cs" />
+    <Compile Include="Classes\quest\Achievement.cs" />
+    <Compile Include="Classes\quest\AchievementCategory.cs" />
+    <Compile Include="Classes\quest\AchievementObjective.cs" />
+    <Compile Include="Classes\quest\AchievementReward.cs" />
+    <Compile Include="Classes\quest\objectives\QuestObjectiveBringItemToNpc.cs" />
+    <Compile Include="Classes\quest\objectives\QuestObjectiveBringSoulToNpc.cs" />
+    <Compile Include="Classes\quest\objectives\QuestObjectiveCraftItem.cs" />
+    <Compile Include="Classes\quest\objectives\QuestObjectiveDiscoverMap.cs" />
+    <Compile Include="Classes\quest\objectives\QuestObjectiveDiscoverSubArea.cs" />
+    <Compile Include="Classes\quest\objectives\QuestObjectiveDuelSpecificPlayer.cs" />
+    <Compile Include="Classes\quest\objectives\QuestObjectiveFightMonster.cs" />
+    <Compile Include="Classes\quest\objectives\QuestObjectiveFightMonstersOnMap.cs" />
+    <Compile Include="Classes\quest\objectives\QuestObjectiveFreeForm.cs" />
+    <Compile Include="Classes\quest\objectives\QuestObjectiveGoToNpc.cs" />
+    <Compile Include="Classes\quest\objectives\QuestObjectiveMultiFightMonster.cs" />
+    <Compile Include="Classes\quest\objectives\QuestObjectiveParameters.cs" />
+    <Compile Include="Classes\quest\Quest.cs" />
+    <Compile Include="Classes\quest\QuestCategory.cs" />
+    <Compile Include="Classes\quest\QuestObjective.cs" />
+    <Compile Include="Classes\quest\QuestObjectiveType.cs" />
+    <Compile Include="Classes\quest\QuestStep.cs" />
+    <Compile Include="Classes\quest\QuestStepRewards.cs" />
+    <Compile Include="Classes\quest\treasureHunt\LegendaryTreasureHunt.cs" />
+    <Compile Include="Classes\quest\treasureHunt\PointOfInterest.cs" />
+    <Compile Include="Classes\quest\treasureHunt\PointOfInterestCategory.cs" />
+    <Compile Include="Classes\servers\Server.cs" />
+    <Compile Include="Classes\servers\ServerCommunity.cs" />
+    <Compile Include="Classes\servers\ServerGameType.cs" />
+    <Compile Include="Classes\servers\ServerLang.cs" />
+    <Compile Include="Classes\servers\ServerPopulation.cs" />
+    <Compile Include="Classes\sounds\SoundAnimation.cs" />
+    <Compile Include="Classes\sounds\SoundBones.cs" />
+    <Compile Include="Classes\sounds\SoundUi.cs" />
+    <Compile Include="Classes\sounds\SoundUiElement.cs" />
+    <Compile Include="Classes\sounds\SoundUiHook.cs" />
+    <Compile Include="Classes\spells\FinishMove.cs" />
+    <Compile Include="Classes\spells\Spell.cs" />
+    <Compile Include="Classes\spells\SpellBomb.cs" />
+    <Compile Include="Classes\spells\SpellLevel.cs" />
+    <Compile Include="Classes\spells\SpellPair.cs" />
+    <Compile Include="Classes\spells\SpellState.cs" />
+    <Compile Include="Classes\spells\SpellType.cs" />
+    <Compile Include="Classes\world\Area.cs" />
+    <Compile Include="Classes\world\Dungeon.cs" />
+    <Compile Include="Classes\world\Hint.cs" />
+    <Compile Include="Classes\world\HintCategory.cs" />
+    <Compile Include="Classes\world\MapCoordinates.cs" />
+    <Compile Include="Classes\world\MapPosition.cs" />
+    <Compile Include="Classes\world\MapReference.cs" />
+    <Compile Include="Classes\world\MapScrollAction.cs" />
+    <Compile Include="Classes\world\Phoenix.cs" />
+    <Compile Include="Classes\world\SubArea.cs" />
+    <Compile Include="Classes\world\SuperArea.cs" />
+    <Compile Include="Classes\world\Waypoint.cs" />
+    <Compile Include="Classes\world\WorldMap.cs" />
+    <Compile Include="IDataObject.cs" />
+    <Compile Include="IIndexedData.cs" />
+    <Compile Include="Point.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Proxy.cs" />
+    <Compile Include="Rectangle.cs" />
+    <Compile Include="Tools\D2i\D2IEntry.cs" />
+    <Compile Include="Tools\D2i\D2IFile.cs" />
+    <Compile Include="Tools\D2o\D2OClassAttribute.cs" />
+    <Compile Include="Tools\D2o\D2OClassDefinition.cs" />
+    <Compile Include="Tools\D2o\D2OFieldAttribute.cs" />
+    <Compile Include="Tools\D2o\D2oFieldDefinition.cs" />
+    <Compile Include="Tools\D2o\D2OFieldType.cs" />
+    <Compile Include="Tools\D2o\D2OIgnore.cs" />
+    <Compile Include="Tools\D2o\D2OReader.cs" />
+    <Compile Include="Tools\D2o\D2OSearchEntry.cs" />
+    <Compile Include="Tools\D2o\D2OWriter.cs" />
+    <Compile Include="Tools\D2o\I18NFieldAttribute.cs" />
+    <Compile Include="Tools\D2p\D2pDirectory.cs" />
+    <Compile Include="Tools\D2p\D2pEntry.cs" />
+    <Compile Include="Tools\D2p\D2pEntryState.cs" />
+    <Compile Include="Tools\D2p\D2pFile.cs" />
+    <Compile Include="Tools\D2p\D2pIndexTable.cs" />
+    <Compile Include="Tools\D2p\D2pProperty.cs" />
+    <Compile Include="Tools\Dlm\ColorMultiplicator.cs" />
+    <Compile Include="Tools\Dlm\DlmBasicElement.cs" />
+    <Compile Include="Tools\Dlm\DlmCell.cs" />
+    <Compile Include="Tools\Dlm\DlmCellData.cs" />
+    <Compile Include="Tools\Dlm\DlmFixture.cs" />
+    <Compile Include="Tools\Dlm\DlmGraphicalElement.cs" />
+    <Compile Include="Tools\Dlm\DlmLayer.cs" />
+    <Compile Include="Tools\Dlm\DlmMap.cs" />
+    <Compile Include="Tools\Dlm\DlmReader.cs" />
+    <Compile Include="Tools\Dlm\DlmSoundElement.cs" />
+    <Compile Include="Tools\Ele\Datas\AnimatedGraphicalElementData.cs" />
+    <Compile Include="Tools\Ele\Datas\BlendedGraphicalElementData.cs" />
+    <Compile Include="Tools\Ele\Datas\BoundingBoxGraphicalElementData.cs" />
+    <Compile Include="Tools\Ele\Datas\EntityGraphicalElementData.cs" />
+    <Compile Include="Tools\Ele\Datas\NormalGraphicalElementData.cs" />
+    <Compile Include="Tools\Ele\Datas\ParticlesGraphicalElementData.cs" />
+    <Compile Include="Tools\Ele\EleGraphicalData.cs" />
+    <Compile Include="Tools\Ele\EleGraphicalElementTypes.cs" />
+    <Compile Include="Tools\Ele\EleInstance.cs" />
+    <Compile Include="Tools\Ele\EleReader.cs" />
+    <Compile Include="Tools\Ma3\Ma3Reader.cs" />
+    <Compile Include="Tools\StringPatternDecoder.cs" />
+    <Compile Include="TransformData.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Enable NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <!--
+    <Error Condition="!Exists('..\..\packages\Fody.1.29.4\build\dotnet\Fody.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\..\packages\Fody.1.29.4\build\dotnet\Fody.targets'))" />
+    <Error Condition="!Exists('..\..\server\stump.server.worldserver\packages\Fody.2.1.3\build\netstandard1.2\Fody.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\..\server\stump.server.worldserver\packages\Fody.2.1.3\build\netstandard1.2\Fody.targets'))" />
+   -->
+  </Target>
+  <!--<Import Project="..\..\packages\Fody.1.29.4\build\dotnet\Fody.targets" Condition="Exists('..\..\packages\Fody.1.29.4\build\dotnet\Fody.targets')" />
+  <Import Project="..\..\server\stump.server.worldserver\packages\Fody.2.1.3\build\netstandard1.2\Fody.targets" Condition="Exists('..\..\server\stump.server.worldserver\packages\Fody.2.1.3\build\netstandard1.2\Fody.targets')" />
+   -->
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

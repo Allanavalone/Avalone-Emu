@@ -1,0 +1,237 @@
+﻿<Configuration>
+  <Stump>
+    <Server>
+      <AuthServer>
+        <AuthServer>
+          <!--Editable as Running : False-->
+          <Variable name="HostAutoDefined" serialized="false">False</Variable>
+          <!--Editable as Running : False-->
+          <Variable name="Host" serialized="false">127.0.0.1</Variable>
+          <!--Editable as Running : False-->
+          <Variable name="CustomHost" serialized="false">127.0.0.1</Variable>
+          <!--Editable as Running : False-->
+          <Variable name="Port" serialized="false">446</Variable>
+          <!--Editable as Running : False-->
+          <Variable name="IpcAddress" serialized="false">127.0.0.1</Variable>
+          <!--Editable as Running : False-->
+          <Variable name="IpcPort" serialized="false">9000</Variable>
+          <!--Editable as Running : False-->
+          <Variable name="ConnectionSwfPatch" serialized="false">./swf_patchs/AuthPatch.swf</Variable>
+          <!--Editable as Running : False-->
+          <Variable name="DatabaseConfiguration" serialized="true">
+            <DatabaseConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+              <User>root</User>
+              <Password></Password>
+              <DbName>auth</DbName>
+              <Host>127.0.0.1</Host>
+              <Port>3306</Port>
+              <ProviderName>MySql.Data.MySqlClient</ProviderName>
+            </DatabaseConfiguration>
+          </Variable>
+        </AuthServer>
+      </AuthServer>
+      <BaseServer>
+        <ServerBase>
+          <!--Editable as Running : False-->
+          <Variable name="IOTaskInterval" serialized="false">50</Variable>
+          <!--Editable as Running : False-->
+          <Variable name="ScheduledAutomaticShutdown" serialized="false">False</Variable>
+          <!--Editable as Running : False-->
+          <Variable name="AutomaticShutdownTimer" serialized="false">360</Variable>
+          <!--Editable as Running : False-->
+          <Variable name="CommandsInfoFilePath" serialized="false">./commands.xml</Variable>
+          <!--Editable as Running : True-->
+          <Variable name="IsExceptionLoggerEnabled" serialized="false">False</Variable>
+          <!--Editable as Running : False-->
+          <Variable name="ExceptionLoggerDSN" serialized="false" />
+        </ServerBase>
+        <ConsoleBase>
+          <!--Editable as Running : True-->
+          <Variable name="AskWaiterInterval" serialized="false">20</Variable>
+        </ConsoleBase>
+        <Settings>
+          <!--Editable as Running : False-->
+          <Variable name="EnableBenchmarking" serialized="false">False</Variable>
+          <!--Editable as Running : False-->
+          <Variable name="InactivityDisconnectionTime" serialized="true">
+            <int>900</int>
+          </Variable>
+          <!--Editable as Running : False-->
+          <Variable name="Language" serialized="true">
+            <Languages>English</Languages>
+          </Variable>
+        </Settings>
+        <Logging>
+          <MongoLogger>
+            <!--Editable as Running : True-->
+            <Variable name="IsMongoLoggerEnabled" serialized="false">False</Variable>
+            <!--Editable as Running : True-->
+            <Variable name="MongoDBConfiguration" serialized="true">
+              <DatabaseConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                <User>root</User>
+				<Password></Password>
+				<DbName>auth</DbName>
+				<Host>127.0.0.1</Host>
+                <Port>3306</Port>
+              </DatabaseConfiguration>
+            </Variable>
+          </MongoLogger>
+        </Logging>
+      </BaseServer>
+      <AuthServer>
+        <Handlers>
+          <Connection>
+            <ConnectionHandler>
+              <!--Editable as Running : False-->
+              <Variable name="MaxConnectionLogs" serialized="false">5</Variable>
+            </ConnectionHandler>
+          </Connection>
+        </Handlers>
+        <IO>
+          <AuthConsole>
+            <!--Editable as Running : False-->
+            <Variable name="CommandPreffix" serialized="false" />
+          </AuthConsole>
+        </IO>
+        <IPC>
+          <IPCClient>
+            <!--Editable as Running : True-->
+            <Variable name="DefaultRequestTimeout" serialized="false">-1</Variable>
+            <!--Editable as Running : True-->
+            <Variable name="TaskPoolInterval" serialized="false">150</Variable>
+          </IPCClient>
+          <IPCHost>
+            <!--Editable as Running : False-->
+            <Variable name="ServersMaxCount" serialized="false">10</Variable>
+            <!--Editable as Running : False-->
+            <Variable name="BufferSize" serialized="false">8192</Variable>
+          </IPCHost>
+        </IPC>
+        <Managers>
+          <AccountManager>
+            <!--Editable as Running : False-->
+            <Variable name="AvailableBreeds" serialized="true">
+              <ArrayOfPlayableBreedEnum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                <PlayableBreedEnum>Feca</PlayableBreedEnum>
+                <PlayableBreedEnum>Osamodas</PlayableBreedEnum>
+                <PlayableBreedEnum>Enutrof</PlayableBreedEnum>
+                <PlayableBreedEnum>Sram</PlayableBreedEnum>
+                <PlayableBreedEnum>Xelor</PlayableBreedEnum>
+                <PlayableBreedEnum>Ecaflip</PlayableBreedEnum>
+                <PlayableBreedEnum>Eniripsa</PlayableBreedEnum>
+                <PlayableBreedEnum>Iop</PlayableBreedEnum>
+                <PlayableBreedEnum>Cra</PlayableBreedEnum>
+                <PlayableBreedEnum>Sadida</PlayableBreedEnum>
+                <PlayableBreedEnum>Sacrieur</PlayableBreedEnum>
+                <PlayableBreedEnum>Pandawa</PlayableBreedEnum>
+                <PlayableBreedEnum>Roublard</PlayableBreedEnum>
+                <PlayableBreedEnum>Zobal</PlayableBreedEnum>
+                <PlayableBreedEnum>Steamer</PlayableBreedEnum>
+                <PlayableBreedEnum>Eliotrope</PlayableBreedEnum>
+                <PlayableBreedEnum>Huppermage</PlayableBreedEnum>
+              </ArrayOfPlayableBreedEnum>
+            </Variable>
+            <!--Editable as Running : False-->
+            <Variable name="CacheTimeout" serialized="false">300</Variable>
+            <!--Editable as Running : False-->
+            <Variable name="BansRefreshTime" serialized="false">60</Variable>
+          </AccountManager>
+          <WorldServerManager>
+            <!--Editable as Running : True-->
+            <Variable name="WorldServerTimeout" serialized="false">20</Variable>
+            <!--Editable as Running : True-->
+            <Variable name="PingCheckInterval" serialized="false">2000</Variable>
+            <!--Editable as Running : True-->
+            <Variable name="AllowedServerIps" serialized="true">
+              <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                <string>127.0.0.1</string>
+              </ArrayOfString>
+            </Variable>
+          </WorldServerManager>
+        </Managers>
+      </AuthServer>
+      <BaseServer>
+        <Benchmark>
+          <BenchmarkManager>
+            <!--Editable as Running : True-->
+            <Variable name="Enable" serialized="false">False</Variable>
+            <!--Editable as Running : True-->
+            <Variable name="BenchmarkingType" serialized="true">
+              <BenchmarkingType>Complete</BenchmarkingType>
+            </Variable>
+            <!--Editable as Running : True-->
+            <Variable name="EntriesLimit" serialized="false">1000000</Variable>
+          </BenchmarkManager>
+        </Benchmark>
+        <Commands>
+          <CommandBase>
+            <!--Editable as Running : False-->
+            <Variable name="IgnoreCommandCase" serialized="false">True</Variable>
+          </CommandBase>
+        </Commands>
+        <Network>
+          <BaseClient>
+            <!--Editable as Running : True-->
+            <Variable name="LogPackets" serialized="false">True</Variable>
+            <!--Editable as Running : True-->
+            <Variable name="MessagesEntriesLimit" serialized="false">20</Variable>
+            <!--Editable as Running : True-->
+            <Variable name="FloodCheck" serialized="false">True</Variable>
+            <!--Editable as Running : True-->
+            <Variable name="FloodMinTime" serialized="false">3</Variable>
+            <!--Editable as Running : True-->
+            <Variable name="MessagesWhitelist" serialized="true">
+              <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                <string>GameActionAcknowledgementMessage</string>
+                <string>GameFightTurnReadyMessage</string>
+              </ArrayOfString>
+            </Variable>
+          </BaseClient>
+          <ClientManager>
+            <!--Editable as Running : False-->
+            <Variable name="MaxConcurrentConnections" serialized="false">2000</Variable>
+            <!--Editable as Running : False-->
+            <Variable name="MaxPendingConnections" serialized="false">100</Variable>
+            <!--Editable as Running : False-->
+            <Variable name="MaxIPConnexions" serialized="true">
+              <int>10</int>
+            </Variable>
+            <!--Editable as Running : False-->
+            <Variable name="BufferSize" serialized="false">8192</Variable>
+          </ClientManager>
+          <VersionExtension>
+            <!--Editable as Running : True-->
+            <Variable name="Severity" serialized="true">
+              <VersionCheckingSeverity>Light</VersionCheckingSeverity>
+            </Variable>
+            <!--Editable as Running : True-->
+            <Variable name="ExpectedVersion" serialized="true">
+              <Version xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                <major>2</major>
+                <minor>43</minor>
+                <release>0</release>
+                <revision>121441</revision>
+                <patch>4</patch>
+                <buildType>0</buildType>
+              </Version>
+            </Variable>
+            <!--Editable as Running : True-->
+            <Variable name="ActualProtocol" serialized="false">1692</Variable>
+            <!--Editable as Running : True-->
+            <Variable name="ProtocolRequired" serialized="false">1692</Variable>
+          </VersionExtension>
+        </Network>
+        <Plugins>
+          <PluginManager>
+            <!--Editable as Running : True-->
+            <Variable name="PluginsPath" serialized="true">
+              <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                <string>./plugins/</string>
+              </ArrayOfString>
+            </Variable>
+          </PluginManager>
+        </Plugins>
+      </BaseServer>
+    </Server>
+  </Stump>
+</Configuration>

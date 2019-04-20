@@ -1,0 +1,207 @@
+C:\Users\W0dm4\Dropbox\Stump 2.40\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Types.csprojResolveAssemblyReference.cache
+C:\Users\W0dm4\Dropbox\Stump 2.40\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Users\W0dm4\Dropbox\Stump 2.40\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\W0dm4\Dropbox\Stump 2.40\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\W0dm4\Dropbox\Stump 2.40\DofusProtocol\Types\bin\Debug\Stump.Core.dll
+C:\Users\W0dm4\Dropbox\Stump 2.40\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\W0dm4\Dropbox\Stump 2.40\DofusProtocol\Types\bin\Debug\zlib.net.dll
+C:\Users\W0dm4\Dropbox\Stump 2.40\DofusProtocol\Types\bin\Debug\Stump.Core.pdb
+C:\Users\W0dm4\Dropbox\Stump 2.40\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\W0dm4\Dropbox\Stump 2.40\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\W0dm4\Dropbox\Stump 2.40\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\W0dm4\Dropbox\Stump 2.40\DofusProtocol\Types\bin\Debug\Stump.Core.dll.config
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\DofusProtocol\Types\bin\Debug\Stump.Core.dll
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\DofusProtocol\Types\bin\Debug\zlib.net.dll
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\DofusProtocol\Types\bin\Debug\Stump.Core.pdb
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\DofusProtocol\Types\bin\Debug\Stump.Core.dll.config
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Types.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Types\bin\Debug\Stump.Core.dll
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Types\bin\Debug\zlib.net.dll
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Types\bin\Debug\Stump.Core.pdb
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Types\bin\Debug\Stump.Core.dll.config
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Types.csprojResolveAssemblyReference.cache
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Types\bin\Debug\Stump.Core.dll
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Types\bin\Debug\zlib.net.dll
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Types\bin\Debug\Stump.Core.pdb
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Types\bin\Debug\Stump.Core.dll.config
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Types.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Types\bin\Debug\Stump.Core.dll
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Types\bin\Debug\zlib.net.dll
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Types\bin\Debug\Stump.Core.pdb
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Types\bin\Debug\Stump.Core.dll.config
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Types.csprojResolveAssemblyReference.cache
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Types\bin\Debug\Stump.Core.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Types\bin\Debug\zlib.net.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Types\bin\Debug\Stump.Core.pdb
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Types\bin\Debug\Stump.Core.dll.config
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Types.csprojResolveAssemblyReference.cache
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\dofusprotocol\Types\obj\Debug\Stump.DofusProtocol.Types.csprojResolveAssemblyReference.cache
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\dofusprotocol\Types\obj\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\dofusprotocol\Types\obj\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\dofusprotocol\Types\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\dofusprotocol\Types\bin\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\dofusprotocol\Types\bin\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\dofusprotocol\Types\bin\Debug\Stump.Core.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\dofusprotocol\Types\bin\Debug\zlib.net.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\dofusprotocol\Types\bin\Debug\Stump.Core.pdb
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\dofusprotocol\Types\bin\Debug\Stump.Core.dll.config
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\DofusProtocol\Types\bin\Debug\Stump.Core.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\DofusProtocol\Types\bin\Debug\zlib.net.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\DofusProtocol\Types\bin\Debug\Stump.Core.pdb
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\DofusProtocol\Types\bin\Debug\Stump.Core.dll.config
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Types.csprojResolveAssemblyReference.cache
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Classes.pdb
+E:\Erosis\new server\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+E:\Erosis\new server\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.dll
+E:\Erosis\new server\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.pdb
+E:\Erosis\new server\DofusProtocol\Types\bin\Debug\Stump.Core.dll
+E:\Erosis\new server\DofusProtocol\Types\bin\Debug\zlib.net.dll
+E:\Erosis\new server\DofusProtocol\Types\bin\Debug\Stump.Core.pdb
+E:\Erosis\new server\DofusProtocol\Types\bin\Debug\Stump.Core.dll.config
+E:\Erosis\new server\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Types.csprojResolveAssemblyReference.cache
+E:\Erosis\new server\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Classes.dll
+E:\Erosis\new server\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Classes.pdb
+E:\Erosis\new server\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Types.csproj.CoreCompileInputs.cache
+C:\Users\pc startklaar\Desktop\calistya\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Users\pc startklaar\Desktop\calistya\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\pc startklaar\Desktop\calistya\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\pc startklaar\Desktop\calistya\DofusProtocol\Types\bin\Debug\Stump.Core.dll
+C:\Users\pc startklaar\Desktop\calistya\DofusProtocol\Types\bin\Debug\zlib.net.dll
+C:\Users\pc startklaar\Desktop\calistya\DofusProtocol\Types\bin\Debug\Stump.Core.pdb
+C:\Users\pc startklaar\Desktop\calistya\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Types.csprojResolveAssemblyReference.cache
+C:\Users\pc startklaar\Desktop\calistya\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\pc startklaar\Desktop\calistya\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Administrateur\Desktop\calistya\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Users\Administrateur\Desktop\calistya\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Administrateur\Desktop\calistya\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Administrateur\Desktop\calistya\DofusProtocol\Types\bin\Debug\Stump.Core.dll
+C:\Users\Administrateur\Desktop\calistya\DofusProtocol\Types\bin\Debug\zlib.net.dll
+C:\Users\Administrateur\Desktop\calistya\DofusProtocol\Types\bin\Debug\Stump.Core.pdb
+C:\Users\Administrateur\Desktop\calistya\DofusProtocol\Types\bin\Debug\Stump.Core.dll.config
+C:\Users\Administrateur\Desktop\calistya\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Types.csprojResolveAssemblyReference.cache
+C:\Users\Administrateur\Desktop\calistya\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Types.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\calistya\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Administrateur\Desktop\calistya\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Classes.pdb
+D:\Ankado V2\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+D:\Ankado V2\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.dll
+D:\Ankado V2\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.pdb
+D:\Ankado V2\DofusProtocol\Types\bin\Debug\Stump.Core.dll
+D:\Ankado V2\DofusProtocol\Types\bin\Debug\zlib.net.dll
+D:\Ankado V2\DofusProtocol\Types\bin\Debug\Stump.Core.pdb
+D:\Ankado V2\DofusProtocol\Types\bin\Debug\Stump.Core.dll.config
+D:\Ankado V2\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Types.csprojAssemblyReference.cache
+D:\Ankado V2\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Types.csproj.CoreCompileInputs.cache
+D:\Ankado V2\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Types.csproj.CopyComplete
+D:\Ankado V2\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Classes.dll
+D:\Ankado V2\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Classes.pdb
+D:\Ankado V2\ZOWA\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+D:\Ankado V2\ZOWA\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.dll
+D:\Ankado V2\ZOWA\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.pdb
+D:\Ankado V2\ZOWA\DofusProtocol\Types\bin\Debug\Stump.Core.dll
+D:\Ankado V2\ZOWA\DofusProtocol\Types\bin\Debug\zlib.net.dll
+D:\Ankado V2\ZOWA\DofusProtocol\Types\bin\Debug\Stump.Core.pdb
+D:\Ankado V2\ZOWA\DofusProtocol\Types\bin\Debug\Stump.Core.dll.config
+D:\Ankado V2\ZOWA\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Types.csprojAssemblyReference.cache
+D:\Ankado V2\ZOWA\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Types.csproj.CoreCompileInputs.cache
+D:\Ankado V2\ZOWA\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Types.csproj.CopyComplete
+D:\Ankado V2\ZOWA\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Classes.dll
+D:\Ankado V2\ZOWA\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\balia\Desktop\Ankacore v1.3(havenbag)\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Users\balia\Desktop\Ankacore v1.3(havenbag)\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\balia\Desktop\Ankacore v1.3(havenbag)\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\balia\Desktop\Ankacore v1.3(havenbag)\DofusProtocol\Types\bin\Debug\Stump.Core.dll
+C:\Users\balia\Desktop\Ankacore v1.3(havenbag)\DofusProtocol\Types\bin\Debug\zlib.net.dll
+C:\Users\balia\Desktop\Ankacore v1.3(havenbag)\DofusProtocol\Types\bin\Debug\Stump.Core.pdb
+C:\Users\balia\Desktop\Ankacore v1.3(havenbag)\DofusProtocol\Types\bin\Debug\Stump.Core.dll.config
+C:\Users\balia\Desktop\Ankacore v1.3(havenbag)\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Types.csprojAssemblyReference.cache
+C:\Users\balia\Desktop\Ankacore v1.3(havenbag)\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Types.csproj.CoreCompileInputs.cache
+C:\Users\balia\Desktop\Ankacore v1.3(havenbag)\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Types.csproj.CopyComplete
+C:\Users\balia\Desktop\Ankacore v1.3(havenbag)\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\balia\Desktop\Ankacore v1.3(havenbag)\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.3(havenbag)\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.3(havenbag)\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.3(havenbag)\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.3(havenbag)\DofusProtocol\Types\bin\Debug\Stump.Core.dll
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.3(havenbag)\DofusProtocol\Types\bin\Debug\zlib.net.dll
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.3(havenbag)\DofusProtocol\Types\bin\Debug\Stump.Core.pdb
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.3(havenbag)\DofusProtocol\Types\bin\Debug\Stump.Core.dll.config
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.3(havenbag)\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Types.csprojAssemblyReference.cache
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.3(havenbag)\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Types.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.3(havenbag)\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Types.csproj.CopyComplete
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.3(havenbag)\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.3(havenbag)\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Vince Whack\Desktop\Emu\Ankacore 1.4 last\Ankacore v1.4\Ankacore v1.4\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Users\Vince Whack\Desktop\Emu\Ankacore 1.4 last\Ankacore v1.4\Ankacore v1.4\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Vince Whack\Desktop\Emu\Ankacore 1.4 last\Ankacore v1.4\Ankacore v1.4\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Vince Whack\Desktop\Emu\Ankacore 1.4 last\Ankacore v1.4\Ankacore v1.4\DofusProtocol\Types\bin\Debug\Stump.Core.dll
+C:\Users\Vince Whack\Desktop\Emu\Ankacore 1.4 last\Ankacore v1.4\Ankacore v1.4\DofusProtocol\Types\bin\Debug\zlib.net.dll
+C:\Users\Vince Whack\Desktop\Emu\Ankacore 1.4 last\Ankacore v1.4\Ankacore v1.4\DofusProtocol\Types\bin\Debug\Stump.Core.pdb
+C:\Users\Vince Whack\Desktop\Emu\Ankacore 1.4 last\Ankacore v1.4\Ankacore v1.4\DofusProtocol\Types\bin\Debug\Stump.Core.dll.config
+C:\Users\Vince Whack\Desktop\Emu\Ankacore 1.4 last\Ankacore v1.4\Ankacore v1.4\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Types.csprojAssemblyReference.cache
+C:\Users\Vince Whack\Desktop\Emu\Ankacore 1.4 last\Ankacore v1.4\Ankacore v1.4\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Types.csproj.CoreCompileInputs.cache
+C:\Users\Vince Whack\Desktop\Emu\Ankacore 1.4 last\Ankacore v1.4\Ankacore v1.4\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Types.csproj.CopyComplete
+C:\Users\Vince Whack\Desktop\Emu\Ankacore 1.4 last\Ankacore v1.4\Ankacore v1.4\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Vince Whack\Desktop\Emu\Ankacore 1.4 last\Ankacore v1.4\Ankacore v1.4\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\DofusProtocol\Types\bin\Debug\Stump.Core.dll
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\DofusProtocol\Types\bin\Debug\zlib.net.dll
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\DofusProtocol\Types\bin\Debug\Stump.Core.pdb
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\DofusProtocol\Types\bin\Debug\Stump.Core.dll.config
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Types.csprojAssemblyReference.cache
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Types.csproj.CoreCompileInputs.cache
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Types.csproj.CopyComplete
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\DofusProtocol\Types\bin\Debug\Stump.Core.dll
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\DofusProtocol\Types\bin\Debug\zlib.net.dll
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\DofusProtocol\Types\bin\Debug\Stump.Core.pdb
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\DofusProtocol\Types\bin\Debug\Stump.Core.dll.config
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Types.csprojAssemblyReference.cache
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Types.csproj.CoreCompileInputs.cache
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Types.csproj.CopyComplete
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Classes.pdb

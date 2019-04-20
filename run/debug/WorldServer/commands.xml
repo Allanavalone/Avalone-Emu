@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCommandInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <CommandInfo name="BenchmarkCommands">
+    <RequiredRole>Administrator</RequiredRole>
+  </CommandInfo>
+  <CommandInfo name="BenchmarkSummaryCommand">
+    <RequiredRole>Administrator</RequiredRole>
+  </CommandInfo>
+  <CommandInfo name="BenchmarkEnableCommand">
+    <RequiredRole>Administrator</RequiredRole>
+  </CommandInfo>
+  <CommandInfo name="BenchmarkDisableCommand">
+    <RequiredRole>Administrator</RequiredRole>
+  </CommandInfo>
+  <CommandInfo name="BenchmarkLimitCommand">
+    <RequiredRole>Administrator</RequiredRole>
+  </CommandInfo>
+  <CommandInfo name="BenchmarkIOInfoCommand">
+    <RequiredRole>Administrator</RequiredRole>
+  </CommandInfo>
+  <CommandInfo name="BenchmarkPingIOCommand">
+    <RequiredRole>Administrator</RequiredRole>
+  </CommandInfo>
+  <CommandInfo name="BenchmarkStressNetworkCommand">
+    <RequiredRole>Administrator</RequiredRole>
+  </CommandInfo>
+  <CommandInfo name="ConfigCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Provide commands to manage the config file</Description>
+  </CommandInfo>
+  <CommandInfo name="ConfigReloadCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Reload the config file</Description>
+  </CommandInfo>
+  <CommandInfo name="ConfigSaveCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Save the config file</Description>
+  </CommandInfo>
+  <CommandInfo name="DebugCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Provides command to debug things</Description>
+  </CommandInfo>
+  <CommandInfo name="CommandsExceptions">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Give command error details</Description>
+  </CommandInfo>
+  <CommandInfo name="CommandGlobalExceptions">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Give error details</Description>
+  </CommandInfo>
+  <CommandInfo name="HelpCommand">
+    <RequiredRole>Player</RequiredRole>
+    <Description>List all available commands</Description>
+  </CommandInfo>
+  <CommandInfo name="InfoCommand">
+    <RequiredRole>Moderator</RequiredRole>
+    <Description>Display some informations</Description>
+  </CommandInfo>
+  <CommandInfo name="ListCommand">
+    <RequiredRole>Player</RequiredRole>
+    <Description>List all available commands</Description>
+  </CommandInfo>
+  <CommandInfo name="BufferCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Gives buffer manager current state</Description>
+  </CommandInfo>
+  <CommandInfo name="BufferLeaksCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Find possible leaks</Description>
+  </CommandInfo>
+  <CommandInfo name="PluginsCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Provide commands to manage plugins</Description>
+  </CommandInfo>
+  <CommandInfo name="PluginLoadCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Load a plugin</Description>
+  </CommandInfo>
+  <CommandInfo name="PluginReloadCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Reload and reset a plugin</Description>
+  </CommandInfo>
+  <CommandInfo name="PluginUnloadCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Unload a plugin</Description>
+  </CommandInfo>
+  <CommandInfo name="PluginInfoCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Get info. about a plugin</Description>
+  </CommandInfo>
+  <CommandInfo name="PluginListCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>List all loaded plugins</Description>
+  </CommandInfo>
+  <CommandInfo name="ShutdownCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Stop the server</Description>
+  </CommandInfo>
+  <CommandInfo name="AICommands">
+    <RequiredRole>GameMaster</RequiredRole>
+    <Description>Provides commands to manage and debug the ai</Description>
+  </CommandInfo>
+  <CommandInfo name="AIDebugCommand">
+    <RequiredRole>GameMaster</RequiredRole>
+    <Description>Enable/disable ai debug mode in current fight</Description>
+  </CommandInfo>
+  <CommandInfo name="AIPassCommand">
+    <RequiredRole>GameMaster</RequiredRole>
+    <Description>Pass current monster turn</Description>
+  </CommandInfo>
+  <CommandInfo name="AIActionsInfoCommand">
+    <RequiredRole>GameMaster</RequiredRole>
+    <Description>Get all possible actions of current ai</Description>
+  </CommandInfo>
+  <CommandInfo name="AIActionExecuteCommand">
+    <RequiredRole>GameMaster</RequiredRole>
+    <Description>Force an ai to execute an action</Description>
+  </CommandInfo>
+  <CommandInfo name="AIShowMovesCommand">
+    <RequiredRole>GameMaster</RequiredRole>
+    <Description>Show different possibles moves</Description>
+  </CommandInfo>
+  <CommandInfo name="AlignmentCommands">
+    <RequiredRole>GameMaster</RequiredRole>
+    <Description>Provides many commands to manage player alignment</Description>
+  </CommandInfo>
+  <CommandInfo name="AlignmentSideCommand">
+    <RequiredRole>GameMaster</RequiredRole>
+    <Description>Set the alignement side of the given target</Description>
+  </CommandInfo>
+  <CommandInfo name="AnnounceCommand">
+    <RequiredRole>GameMaster_Padawan</RequiredRole>
+    <Description>Display an announce to all players</Description>
+  </CommandInfo>
+  <CommandInfo name="BanCommand">
+    <RequiredRole>GameMaster</RequiredRole>
+    <Description>Ban a player</Description>
+  </CommandInfo>
+  <CommandInfo name="BanIpCommand">
+    <RequiredRole>GameMaster</RequiredRole>
+    <Description>Ban an ip</Description>
+  </CommandInfo>
+  <CommandInfo name="UnBanIPCommand">
+    <RequiredRole>GameMaster</RequiredRole>
+    <Description>Unban an ip</Description>
+  </CommandInfo>
+  <CommandInfo name="BanHardwareIdCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Ban an HardwareId</Description>
+  </CommandInfo>
+  <CommandInfo name="UnBanHardwareIdCommand">
+    <RequiredRole>GameMaster</RequiredRole>
+    <Description>Unban an HardwareId</Description>
+  </CommandInfo>
+  <CommandInfo name="BanInfoCommand">
+    <RequiredRole>GameMaster</RequiredRole>
+    <Description>Gives info about a ban</Description>
+  </CommandInfo>
+  <CommandInfo name="BanAccountCommand">
+    <RequiredRole>GameMaster</RequiredRole>
+    <Description>Ban an account</Description>
+  </CommandInfo>
+  <CommandInfo name="UnBanCommand">
+    <RequiredRole>GameMaster</RequiredRole>
+    <Description>Unban an character</Description>
+  </CommandInfo>
+  <CommandInfo name="UnBanAccountCommand">
+    <RequiredRole>GameMaster</RequiredRole>
+    <Description>Unban an account</Description>
+  </CommandInfo>
+  <CommandInfo name="BankCommands">
+    <RequiredRole>GameMaster</RequiredRole>
+    <Description>Gives commands to manage bank</Description>
+  </CommandInfo>
+  <CommandInfo name="BankOpenCommand">
+    <RequiredRole>GameMaster</RequiredRole>
+    <Description>Open target bank</Description>
+  </CommandInfo>
+  <CommandInfo name="DungeonCommands">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Manage and create dungeons</Description>
+  </CommandInfo>
+  <CommandInfo name="DungeonEnableCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Unspawn the sub area and define it as a dungeon</Description>
+  </CommandInfo>
+  <CommandInfo name="DungeonDisableCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Respawn the sub area and remove the dungeon state</Description>
+  </CommandInfo>
+  <CommandInfo name="DungeonMonster">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Add or remove a monster from the given dungeon map</Description>
+  </CommandInfo>
+  <CommandInfo name="DungeonTeleport">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Set dungeon teleport event to current location</Description>
+  </CommandInfo>
+  <CommandInfo name="EmoteCommand">
+    <RequiredRole>GameMaster</RequiredRole>
+    <Description>Add or remove an emote</Description>
+  </CommandInfo>
+  <CommandInfo name="FightCommands">
+    <RequiredRole>GameMaster</RequiredRole>
+    <Description>Provides commands to manage fights</Description>
+  </CommandInfo>
+  <CommandInfo name="KickFightCommand">
+    <RequiredRole>GameMaster</RequiredRole>
+    <Description>Kick the target</Description>
+  </CommandInfo>
+  <CommandInfo name="ListFightCommand">
+    <RequiredRole>GameMaster</RequiredRole>
+    <Description>List fights on the map</Description>
+  </CommandInfo>
+  <CommandInfo name="JoinFightCommand">
+    <RequiredRole>GameMaster</RequiredRole>
+    <Description>Join a fight</Description>
+  </CommandInfo>
+  <CommandInfo name="EndFightCommand">
+    <RequiredRole>GameMaster</RequiredRole>
+    <Description>Ends a fight</Description>
+  </CommandInfo>
+  <CommandInfo name="PassTurnFightCommand">
+    <RequiredRole>GameMaster</RequiredRole>
+    <Description>Pass the current turn in the given fight</Description>
+  </CommandInfo>
+  <CommandInfo name="FreezeFightCommand">
+    <RequiredRole>GameMaster</RequiredRole>
+    <Description>Freeze/unfreeze current fight</Description>
+  </CommandInfo>
+  <CommandInfo name="ChallengeFightCommand">
+    <RequiredRole>GameMaster</RequiredRole>
+    <Description>Set challenge for current fight</Description>
+  </CommandInfo>
+  <CommandInfo name="FightPlacementCommands">
+    <RequiredRole>GameMaster</RequiredRole>
+    <Description>Manage fight placement</Description>
+  </CommandInfo>
+  <CommandInfo name="FightPlacementShowCommand">
+    <RequiredRole>GameMaster</RequiredRole>
+    <Description>Display current map placements</Description>
+  </CommandInfo>
+  <CommandInfo name="FightPlacementClearCommand">
+    <RequiredRole>GameMaster</RequiredRole>
+    <Description>Clear current map placements</Description>
+  </CommandInfo>
+  <CommandInfo name="FightPlacementSetCommand">
+    <RequiredRole>GameMaster</RequiredRole>
+    <Description>Set current map placements</Description>
+  </CommandInfo>
+  <CommandInfo name="FightPlacementAddCommand">
+    <RequiredRole>GameMaster</RequiredRole>
+    <Description>Add current cell to map placements</Description>
+  </CommandInfo>
+  <CommandInfo name="GodCommand">
+    <RequiredRole>GameMaster</RequiredRole>
+    <Description>Just to be all powerful.</Description>
+  </CommandInfo>
+  <CommandInfo name="GodOnCommand">
+    <RequiredRole>GameMaster</RequiredRole>
+    <Description>Activate god mode</Description>
+  </CommandInfo>
+  <CommandInfo name="GodOffCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Disable god mode</Description>
+  </CommandInfo>
+  <CommandInfo name="AdminChatCommand">
+    <RequiredRole>Moderator</RequiredRole>
+    <Description>Enable/disable admin chat mode</Description>
+  </CommandInfo>
+  <CommandInfo name="LevelUpCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Gives some levels to the target</Description>
+  </CommandInfo>
+  <CommandInfo name="KamasCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Add the amount kamas to target's inventory</Description>
+  </CommandInfo>
+  <CommandInfo name="SetStatsCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Set the amount of stats point of the target</Description>
+  </CommandInfo>
+  <CommandInfo name="InvisibleCommand">
+    <RequiredRole>GameMaster_Padawan</RequiredRole>
+    <Description>Toggle invisible state</Description>
+  </CommandInfo>
+  <CommandInfo name="HealCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Restore Heal and Energy</Description>
+  </CommandInfo>
+  <CommandInfo name="CriticalModeCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Critical damages each time</Description>
+  </CommandInfo>
+  <CommandInfo name="GuildCommand">
+    <RequiredRole>GameMaster</RequiredRole>
+    <Description>Provides many commands to manage guilds</Description>
+  </CommandInfo>
+  <CommandInfo name="GuildCreateCommand">
+    <RequiredRole>Administrator</RequiredRole>
+  </CommandInfo>
+  <CommandInfo name="GuildJoinCommand">
+    <RequiredRole>GameMaster</RequiredRole>
+  </CommandInfo>
+  <CommandInfo name="GuildBossCommand">
+    <RequiredRole>GameMaster</RequiredRole>
+  </CommandInfo>
+  <CommandInfo name="InfoMapCommand">
+    <RequiredRole>GameMaster_Padawan</RequiredRole>
+    <Description>Give informations about a map</Description>
+  </CommandInfo>
+  <CommandInfo name="InfoAreaCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Give informations about an area</Description>
+  </CommandInfo>
+  <CommandInfo name="InfoCharacterCommand">
+    <RequiredRole>GameMaster_Padawan</RequiredRole>
+    <Description>Give informations about a player</Description>
+  </CommandInfo>
+  <CommandInfo name="InfoFightCommand">
+    <RequiredRole>GameMaster_Padawan</RequiredRole>
+    <Description>Give informations about a fight</Description>
+  </CommandInfo>
+  <CommandInfo name="InfoIPCommand">
+    <RequiredRole>GameMaster</RequiredRole>
+    <Description>Give informations about an ip</Description>
+  </CommandInfo>
+  <CommandInfo name="InteractivesCommands">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Manage interactives objects</Description>
+  </CommandInfo>
+  <CommandInfo name="InteractiveShowCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Show interactives objects</Description>
+  </CommandInfo>
+  <CommandInfo name="InteractiveRefreshCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Refresh interactives objects</Description>
+  </CommandInfo>
+  <CommandInfo name="InteractiveTeleportCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Add a teleport interactive object to the current map</Description>
+  </CommandInfo>
+  <CommandInfo name="InteractivesStarsCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Set monster group stars bonus</Description>
+  </CommandInfo>
+  <CommandInfo name="ItemCommand">
+    <RequiredRole>GameMaster_Padawan</RequiredRole>
+    <Description>Provides many commands to manage items</Description>
+  </CommandInfo>
+  <CommandInfo name="ItemAddCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Add an item to the targeted character</Description>
+  </CommandInfo>
+  <CommandInfo name="ItemRemoveCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Delete an item from the target</Description>
+  </CommandInfo>
+  <CommandInfo name="JailCommand">
+    <RequiredRole>Moderator</RequiredRole>
+    <Description>Jail a character</Description>
+  </CommandInfo>
+  <CommandInfo name="UnJailCommand">
+    <RequiredRole>Moderator</RequiredRole>
+    <Description>Unjail a player</Description>
+  </CommandInfo>
+  <CommandInfo name="JobsCommands">
+    <RequiredRole>Moderator</RequiredRole>
+    <Description>Gives commands to manage target's jobs</Description>
+  </CommandInfo>
+  <CommandInfo name="JobLevelupCommand">
+    <RequiredRole>Moderator</RequiredRole>
+    <Description>Level up (or down) target's job</Description>
+  </CommandInfo>
+  <CommandInfo name="KickCommand">
+    <RequiredRole>Moderator</RequiredRole>
+    <Description>Kick a player</Description>
+  </CommandInfo>
+  <CommandInfo name="LookCommand">
+    <RequiredRole>GameMaster</RequiredRole>
+    <Description>Change the look of the target</Description>
+  </CommandInfo>
+  <CommandInfo name="MerchantKickCommands">
+    <RequiredRole>GameMaster</RequiredRole>
+    <Description>Provides commands to manage merchants</Description>
+  </CommandInfo>
+  <CommandInfo name="MerchantKickCommand">
+    <RequiredRole>GameMaster</RequiredRole>
+    <Description>Kick the target merchant</Description>
+  </CommandInfo>
+  <CommandInfo name="MerchantShowCommand">
+    <RequiredRole>GameMaster</RequiredRole>
+    <Description>Show the target merchantbag</Description>
+  </CommandInfo>
+  <CommandInfo name="MonsterCommands">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Manage monsters</Description>
+  </CommandInfo>
+  <CommandInfo name="MonsterSpawnCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Spawn a monster on the current location</Description>
+  </CommandInfo>
+  <CommandInfo name="MonsterSpellsCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Enumerate monster spells</Description>
+  </CommandInfo>
+  <CommandInfo name="MonsterSpawnNextCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Spawn the next monster of the spawning pool</Description>
+  </CommandInfo>
+  <CommandInfo name="MonsterStarsCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Set monster group stars bonus</Description>
+  </CommandInfo>
+  <CommandInfo name="StaticCommands">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Manage static monsters</Description>
+  </CommandInfo>
+  <CommandInfo name="StaticEnableCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Unspawn the map and define it as static</Description>
+  </CommandInfo>
+  <CommandInfo name="StaticDisableCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Respawn the map and remove the static state</Description>
+  </CommandInfo>
+  <CommandInfo name="StaticMonster">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Add or remove a monster from the given static map</Description>
+  </CommandInfo>
+  <CommandInfo name="MountCommands">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Mounts Commands</Description>
+  </CommandInfo>
+  <CommandInfo name="MountSetCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Equip a mount</Description>
+  </CommandInfo>
+  <CommandInfo name="MuteCommand">
+    <RequiredRole>Moderator</RequiredRole>
+  </CommandInfo>
+  <CommandInfo name="UnMuteCommand">
+    <RequiredRole>Moderator</RequiredRole>
+  </CommandInfo>
+  <CommandInfo name="MuteMapCommand">
+    <RequiredRole>Moderator</RequiredRole>
+  </CommandInfo>
+  <CommandInfo name="NpcsCommands">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Manage npcs</Description>
+  </CommandInfo>
+  <CommandInfo name="NpcSpawnCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Spawn a npc on the current location</Description>
+  </CommandInfo>
+  <CommandInfo name="NpcUnSpawnCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Unspawn the npc by the given contextual id</Description>
+  </CommandInfo>
+  <CommandInfo name="ReloadCommands">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Reload manager</Description>
+  </CommandInfo>
+  <CommandInfo name="SaveCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Save the player</Description>
+  </CommandInfo>
+  <CommandInfo name="SaveWorldCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Save world</Description>
+  </CommandInfo>
+  <CommandInfo name="SpellsCommands">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Manage spells</Description>
+  </CommandInfo>
+  <CommandInfo name="LearnSpellCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Learn the given spell</Description>
+  </CommandInfo>
+  <CommandInfo name="UnLearnSpellCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Forget the given spell</Description>
+  </CommandInfo>
+  <CommandInfo name="LearnMonsterSpellCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Learn the given spell</Description>
+  </CommandInfo>
+  <CommandInfo name="ListSpellsCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>List the spells of the target</Description>
+  </CommandInfo>
+  <CommandInfo name="SetSpellLevelCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Set the level of the given spell of the target</Description>
+  </CommandInfo>
+  <CommandInfo name="SpellInfoCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Get informations about a spell</Description>
+  </CommandInfo>
+  <CommandInfo name="GoPosCommand">
+    <RequiredRole>GameMaster_Padawan</RequiredRole>
+    <Description>Teleport the target to the given map position (x/y)</Description>
+  </CommandInfo>
+  <CommandInfo name="GoCommand">
+    <RequiredRole>GameMaster_Padawan</RequiredRole>
+    <Description>Teleport the target given map id</Description>
+  </CommandInfo>
+  <CommandInfo name="GoNameCommand">
+    <RequiredRole>Moderator</RequiredRole>
+    <Description>Teleport to the target</Description>
+  </CommandInfo>
+  <CommandInfo name="NameGoCommand">
+    <RequiredRole>GameMaster_Padawan</RequiredRole>
+    <Description>Teleport target to you</Description>
+  </CommandInfo>
+  <CommandInfo name="AddRemoveTitleCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Add or remove a title on the target</Description>
+  </CommandInfo>
+  <CommandInfo name="AddRemoveOrnamentCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Add or remove an ornament on the target</Description>
+  </CommandInfo>
+  <CommandInfo name="TransitionsCommands">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Manage map transitions</Description>
+  </CommandInfo>
+  <CommandInfo name="TransitionSetCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Set the current map transition</Description>
+  </CommandInfo>
+  <CommandInfo name="TransitionResetCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Reset the current map transition</Description>
+  </CommandInfo>
+  <CommandInfo name="TransitionAddTriggerCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Add a trigger to the current map</Description>
+  </CommandInfo>
+  <CommandInfo name="WhoCommand">
+    <RequiredRole>Moderator</RequiredRole>
+    <Description>Return a list of playe based on the given arguments</Description>
+  </CommandInfo>
+  <CommandInfo name="StaffListCommand">
+    <RequiredRole>Player</RequiredRole>
+    <Description>Return a staff connected list</Description>
+  </CommandInfo>
+  <CommandInfo name="ItemListCommand">
+    <RequiredRole>GameMaster_Padawan</RequiredRole>
+    <Description>Lists loaded items or items from an inventory with a search pattern</Description>
+  </CommandInfo>
+  <CommandInfo name="ItemShowInvCommand">
+    <RequiredRole>GameMaster_Padawan</RequiredRole>
+    <Description>Show items of the target into your inventory</Description>
+  </CommandInfo>
+  <CommandInfo name="ItemAddSetCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Add the entire itemset to the targeted character</Description>
+  </CommandInfo>
+  <CommandInfo name="ItemAddTypeCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Add all the items match with typeId.</Description>
+  </CommandInfo>
+  <CommandInfo name="ItemDelTypeCommand">
+    <RequiredRole>Administrator</RequiredRole>
+    <Description>Remove all the items match with typeId.</Description>
+  </CommandInfo>
+</ArrayOfCommandInfo>

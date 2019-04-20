@@ -1,0 +1,862 @@
+C:\Users\W0dm4\Dropbox\Stump 2.40\Server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.csprojResolveAssemblyReference.cache
+C:\Users\W0dm4\Dropbox\Stump 2.40\Server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.dll.config
+C:\Users\W0dm4\Dropbox\Stump 2.40\Server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.dll
+C:\Users\W0dm4\Dropbox\Stump 2.40\Server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.pdb
+C:\Users\W0dm4\Dropbox\Stump 2.40\Server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.XML
+C:\Users\W0dm4\Dropbox\Stump 2.40\Server\Stump.Server.BaseServer\bin\Debug\MongoDB.Bson.dll
+C:\Users\W0dm4\Dropbox\Stump 2.40\Server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\W0dm4\Dropbox\Stump 2.40\Server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.dll
+C:\Users\W0dm4\Dropbox\Stump 2.40\Server\Stump.Server.BaseServer\bin\Debug\MySql.Data.dll
+C:\Users\W0dm4\Dropbox\Stump 2.40\Server\Stump.Server.BaseServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\W0dm4\Dropbox\Stump 2.40\Server\Stump.Server.BaseServer\bin\Debug\NLog.dll
+C:\Users\W0dm4\Dropbox\Stump 2.40\Server\Stump.Server.BaseServer\bin\Debug\protobuf-net.dll
+C:\Users\W0dm4\Dropbox\Stump 2.40\Server\Stump.Server.BaseServer\bin\Debug\SharpRaven.dll
+C:\Users\W0dm4\Dropbox\Stump 2.40\Server\Stump.Server.BaseServer\bin\Debug\Stump.Core.dll
+C:\Users\W0dm4\Dropbox\Stump 2.40\Server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\W0dm4\Dropbox\Stump 2.40\Server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\W0dm4\Dropbox\Stump 2.40\Server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\W0dm4\Dropbox\Stump 2.40\Server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.dll
+C:\Users\W0dm4\Dropbox\Stump 2.40\Server\Stump.Server.BaseServer\bin\Debug\Stump.ORM.dll
+C:\Users\W0dm4\Dropbox\Stump 2.40\Server\Stump.Server.BaseServer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\W0dm4\Dropbox\Stump 2.40\Server\Stump.Server.BaseServer\bin\Debug\zlib.net.dll
+C:\Users\W0dm4\Dropbox\Stump 2.40\Server\Stump.Server.BaseServer\bin\Debug\Stump.Core.pdb
+C:\Users\W0dm4\Dropbox\Stump 2.40\Server\Stump.Server.BaseServer\bin\Debug\Stump.Core.dll.config
+C:\Users\W0dm4\Dropbox\Stump 2.40\Server\Stump.Server.BaseServer\bin\Debug\Stump.ORM.pdb
+C:\Users\W0dm4\Dropbox\Stump 2.40\Server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\W0dm4\Dropbox\Stump 2.40\Server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Users\W0dm4\Dropbox\Stump 2.40\Server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\W0dm4\Dropbox\Stump 2.40\Server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.pdb
+C:\Users\W0dm4\Dropbox\Stump 2.40\Server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.dll.config
+C:\Users\W0dm4\Dropbox\Stump 2.40\Server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\W0dm4\Dropbox\Stump 2.40\Server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+C:\Users\W0dm4\Dropbox\Stump 2.40\Server\Stump.Server.BaseServer\bin\Debug\MongoDB.Bson.xml
+C:\Users\W0dm4\Dropbox\Stump 2.40\Server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.xml
+C:\Users\W0dm4\Dropbox\Stump 2.40\Server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\W0dm4\Dropbox\Stump 2.40\Server\Stump.Server.BaseServer\bin\Debug\MySql.Data.xml
+C:\Users\W0dm4\Dropbox\Stump 2.40\Server\Stump.Server.BaseServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\W0dm4\Dropbox\Stump 2.40\Server\Stump.Server.BaseServer\bin\Debug\NLog.xml
+C:\Users\W0dm4\Dropbox\Stump 2.40\Server\Stump.Server.BaseServer\bin\Debug\SharpRaven.pdb
+C:\Users\W0dm4\Dropbox\Stump 2.40\Server\Stump.Server.BaseServer\bin\Debug\SharpRaven.xml
+C:\Users\W0dm4\Dropbox\Stump 2.40\Server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.dll
+C:\Users\W0dm4\Dropbox\Stump 2.40\Server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.dll.config
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.dll
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.XML
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Bson.dll
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.dll
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.dll
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.dll
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.dll
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.ORM.dll
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\zlib.net.dll
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.pdb
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.dll.config
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.ORM.pdb
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.pdb
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.dll.config
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Bson.xml
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.xml
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MySql.Data.xml
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\NLog.xml
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.pdb
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.xml
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.dll
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.pdb
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.dll.config
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.dll
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.pdb
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.XML
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Bson.dll
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.dll
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MySql.Data.dll
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.dll
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.dll
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.dll
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.ORM.dll
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\zlib.net.dll
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.pdb
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.dll.config
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.ORM.pdb
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.pdb
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.dll.config
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Bson.xml
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.xml
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MySql.Data.xml
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\NLog.xml
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.pdb
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.xml
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.csprojResolveAssemblyReference.cache
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.dll
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.pdb
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.2\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.dll.config
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.2\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.dll
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.2\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.pdb
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.2\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.XML
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.2\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Bson.dll
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.2\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.2\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.dll
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.2\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MySql.Data.dll
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.2\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.2\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.dll
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.2\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.dll
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.2\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.2\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.2\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.2\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.dll
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.2\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.ORM.dll
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.2\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.2\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\zlib.net.dll
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.2\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.pdb
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.2\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.dll.config
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.2\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.ORM.pdb
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.2\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.2\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.2\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.2\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.pdb
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.2\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.dll.config
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.2\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.2\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.2\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Bson.xml
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.2\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.xml
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.2\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.2\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MySql.Data.xml
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.2\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.2\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\NLog.xml
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.2\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.pdb
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.2\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.xml
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.2\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.csprojResolveAssemblyReference.cache
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.2\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.dll
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.2\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.dll.config
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.dll
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.XML
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Bson.dll
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.dll
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.dll
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.dll
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.dll
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.ORM.dll
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\zlib.net.dll
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.pdb
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.dll.config
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.ORM.pdb
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.pdb
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.dll.config
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Bson.xml
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.xml
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MySql.Data.xml
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.pdb
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.xml
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.dll
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MySql.Data.dll
+C:\Users\isaqu\Desktop\[BACKUP(28-05-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.dll.config
+C:\Users\isaqu\Desktop\[BACKUP(28-05-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.dll
+C:\Users\isaqu\Desktop\[BACKUP(28-05-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.pdb
+C:\Users\isaqu\Desktop\[BACKUP(28-05-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.XML
+C:\Users\isaqu\Desktop\[BACKUP(28-05-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Bson.dll
+C:\Users\isaqu\Desktop\[BACKUP(28-05-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\isaqu\Desktop\[BACKUP(28-05-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.dll
+C:\Users\isaqu\Desktop\[BACKUP(28-05-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MySql.Data.dll
+C:\Users\isaqu\Desktop\[BACKUP(28-05-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\isaqu\Desktop\[BACKUP(28-05-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.dll
+C:\Users\isaqu\Desktop\[BACKUP(28-05-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.dll
+C:\Users\isaqu\Desktop\[BACKUP(28-05-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\isaqu\Desktop\[BACKUP(28-05-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\isaqu\Desktop\[BACKUP(28-05-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\isaqu\Desktop\[BACKUP(28-05-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.dll
+C:\Users\isaqu\Desktop\[BACKUP(28-05-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.ORM.dll
+C:\Users\isaqu\Desktop\[BACKUP(28-05-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\isaqu\Desktop\[BACKUP(28-05-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\zlib.net.dll
+C:\Users\isaqu\Desktop\[BACKUP(28-05-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.pdb
+C:\Users\isaqu\Desktop\[BACKUP(28-05-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.dll.config
+C:\Users\isaqu\Desktop\[BACKUP(28-05-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.ORM.pdb
+C:\Users\isaqu\Desktop\[BACKUP(28-05-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\isaqu\Desktop\[BACKUP(28-05-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Users\isaqu\Desktop\[BACKUP(28-05-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\isaqu\Desktop\[BACKUP(28-05-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.pdb
+C:\Users\isaqu\Desktop\[BACKUP(28-05-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.dll.config
+C:\Users\isaqu\Desktop\[BACKUP(28-05-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\isaqu\Desktop\[BACKUP(28-05-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+C:\Users\isaqu\Desktop\[BACKUP(28-05-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Bson.xml
+C:\Users\isaqu\Desktop\[BACKUP(28-05-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.xml
+C:\Users\isaqu\Desktop\[BACKUP(28-05-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\isaqu\Desktop\[BACKUP(28-05-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MySql.Data.xml
+C:\Users\isaqu\Desktop\[BACKUP(28-05-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\isaqu\Desktop\[BACKUP(28-05-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.pdb
+C:\Users\isaqu\Desktop\[BACKUP(28-05-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.xml
+C:\Users\isaqu\Desktop\[BACKUP(28-05-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.csprojResolveAssemblyReference.cache
+C:\Users\isaqu\Desktop\[BACKUP(28-05-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.dll
+C:\Users\isaqu\Desktop\[BACKUP(28-05-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.dll.config
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.dll
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.XML
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Bson.dll
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.dll
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.dll
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.dll
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.dll
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.ORM.dll
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\zlib.net.dll
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.pdb
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.dll.config
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.ORM.pdb
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.pdb
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.dll.config
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Bson.xml
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.xml
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MySql.Data.xml
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.pdb
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.xml
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.csprojResolveAssemblyReference.cache
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.dll
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.dll.config
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.dll
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.XML
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Bson.dll
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.dll
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MySql.Data.dll
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.dll
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.dll
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.dll
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.ORM.dll
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\zlib.net.dll
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.pdb
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.dll.config
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.ORM.pdb
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.pdb
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.dll.config
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Bson.xml
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.xml
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MySql.Data.xml
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.pdb
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.xml
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.csprojResolveAssemblyReference.cache
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.dll
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.dll.config
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.XML
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Bson.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MySql.Data.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.ORM.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\zlib.net.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.pdb
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.dll.config
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.ORM.pdb
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.pdb
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.dll.config
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Bson.xml
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.xml
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MySql.Data.xml
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.pdb
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.xml
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.csprojResolveAssemblyReference.cache
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.dll.config
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.XML
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Bson.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MySql.Data.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.ORM.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\zlib.net.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.pdb
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.dll.config
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.ORM.pdb
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.pdb
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.dll.config
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Bson.xml
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.xml
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\MySql.Data.xml
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.pdb
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.xml
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.csprojResolveAssemblyReference.cache
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.dll.config
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.XML
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Bson.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\server\Stump.Server.BaseServer\bin\Debug\MySql.Data.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\server\Stump.Server.BaseServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\server\Stump.Server.BaseServer\bin\Debug\Stump.ORM.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\server\Stump.Server.BaseServer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\server\Stump.Server.BaseServer\bin\Debug\zlib.net.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.pdb
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.dll.config
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\server\Stump.Server.BaseServer\bin\Debug\Stump.ORM.pdb
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.D2oClasses.dll.config
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.pdb
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.dll.config
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Bson.xml
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.xml
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\server\Stump.Server.BaseServer\bin\Debug\MySql.Data.xml
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\server\Stump.Server.BaseServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.pdb
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.xml
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.csprojResolveAssemblyReference.cache
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.pdb
+E:\Erosis\new server\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.dll.config
+E:\Erosis\new server\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.dll
+E:\Erosis\new server\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.pdb
+E:\Erosis\new server\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.XML
+E:\Erosis\new server\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Bson.dll
+E:\Erosis\new server\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.Core.dll
+E:\Erosis\new server\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.dll
+E:\Erosis\new server\server\Stump.Server.BaseServer\bin\Debug\Newtonsoft.Json.dll
+E:\Erosis\new server\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.dll
+E:\Erosis\new server\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.dll
+E:\Erosis\new server\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.dll
+E:\Erosis\new server\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Enums.dll
+E:\Erosis\new server\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.dll
+E:\Erosis\new server\server\Stump.Server.BaseServer\bin\Debug\Stump.ORM.dll
+E:\Erosis\new server\server\Stump.Server.BaseServer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Erosis\new server\server\Stump.Server.BaseServer\bin\Debug\zlib.net.dll
+E:\Erosis\new server\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.pdb
+E:\Erosis\new server\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.dll.config
+E:\Erosis\new server\server\Stump.Server.BaseServer\bin\Debug\Stump.ORM.pdb
+E:\Erosis\new server\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Enums.pdb
+E:\Erosis\new server\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.pdb
+E:\Erosis\new server\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.dll.config
+E:\Erosis\new server\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.pdb
+E:\Erosis\new server\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+E:\Erosis\new server\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Bson.xml
+E:\Erosis\new server\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.xml
+E:\Erosis\new server\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.Core.xml
+E:\Erosis\new server\server\Stump.Server.BaseServer\bin\Debug\MySql.Data.xml
+E:\Erosis\new server\server\Stump.Server.BaseServer\bin\Debug\Newtonsoft.Json.xml
+E:\Erosis\new server\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.pdb
+E:\Erosis\new server\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.xml
+E:\Erosis\new server\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.csprojResolveAssemblyReference.cache
+E:\Erosis\new server\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.dll
+E:\Erosis\new server\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.pdb
+E:\Erosis\new server\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.csproj.CoreCompileInputs.cache
+E:\Erosis\new server\server\Stump.Server.BaseServer\bin\Debug\MySql.Data.dll
+C:\Users\pc startklaar\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.dll.config
+C:\Users\pc startklaar\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.dll
+C:\Users\pc startklaar\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.pdb
+C:\Users\pc startklaar\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.XML
+C:\Users\pc startklaar\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Bson.dll
+C:\Users\pc startklaar\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\pc startklaar\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.dll
+C:\Users\pc startklaar\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\MySql.Data.dll
+C:\Users\pc startklaar\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pc startklaar\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.dll
+C:\Users\pc startklaar\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.dll
+C:\Users\pc startklaar\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\pc startklaar\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\pc startklaar\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.dll
+C:\Users\pc startklaar\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\Stump.ORM.dll
+C:\Users\pc startklaar\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\pc startklaar\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\zlib.net.dll
+C:\Users\pc startklaar\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.pdb
+C:\Users\pc startklaar\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\Stump.ORM.pdb
+C:\Users\pc startklaar\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\pc startklaar\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.pdb
+C:\Users\pc startklaar\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\pc startklaar\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Bson.xml
+C:\Users\pc startklaar\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.xml
+C:\Users\pc startklaar\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\pc startklaar\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\MySql.Data.xml
+C:\Users\pc startklaar\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pc startklaar\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.pdb
+C:\Users\pc startklaar\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.xml
+C:\Users\pc startklaar\Desktop\calistya\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.csprojResolveAssemblyReference.cache
+C:\Users\pc startklaar\Desktop\calistya\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.dll
+C:\Users\pc startklaar\Desktop\calistya\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Administrateur\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.dll.config
+C:\Users\Administrateur\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.dll
+C:\Users\Administrateur\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Administrateur\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.XML
+C:\Users\Administrateur\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Bson.dll
+C:\Users\Administrateur\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Administrateur\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.dll
+C:\Users\Administrateur\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\MySql.Data.dll
+C:\Users\Administrateur\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrateur\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.dll
+C:\Users\Administrateur\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.dll
+C:\Users\Administrateur\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Administrateur\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Administrateur\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.dll
+C:\Users\Administrateur\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\Stump.ORM.dll
+C:\Users\Administrateur\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Administrateur\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\zlib.net.dll
+C:\Users\Administrateur\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.pdb
+C:\Users\Administrateur\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\Stump.ORM.pdb
+C:\Users\Administrateur\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Administrateur\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.pdb
+C:\Users\Administrateur\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Administrateur\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Bson.xml
+C:\Users\Administrateur\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.xml
+C:\Users\Administrateur\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Administrateur\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\MySql.Data.xml
+C:\Users\Administrateur\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrateur\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.pdb
+C:\Users\Administrateur\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.xml
+C:\Users\Administrateur\Desktop\calistya\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrateur\Desktop\calistya\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.dll
+C:\Users\Administrateur\Desktop\calistya\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Administrateur\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.dll.config
+C:\Users\Administrateur\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.dll.config
+C:\Users\Administrateur\Desktop\calistya\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Users\Administrateur\Desktop\calistya\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.csproj.CoreCompileInputs.cache
+D:\Ankado V2\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.dll.config
+D:\Ankado V2\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.dll
+D:\Ankado V2\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.pdb
+D:\Ankado V2\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.XML
+D:\Ankado V2\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Bson.dll
+D:\Ankado V2\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.Core.dll
+D:\Ankado V2\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.dll
+D:\Ankado V2\server\Stump.Server.BaseServer\bin\Debug\MySql.Data.dll
+D:\Ankado V2\server\Stump.Server.BaseServer\bin\Debug\Newtonsoft.Json.dll
+D:\Ankado V2\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.dll
+D:\Ankado V2\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.dll
+D:\Ankado V2\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.dll
+D:\Ankado V2\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Enums.dll
+D:\Ankado V2\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.dll
+D:\Ankado V2\server\Stump.Server.BaseServer\bin\Debug\Stump.ORM.dll
+D:\Ankado V2\server\Stump.Server.BaseServer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Ankado V2\server\Stump.Server.BaseServer\bin\Debug\zlib.net.dll
+D:\Ankado V2\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.pdb
+D:\Ankado V2\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.dll.config
+D:\Ankado V2\server\Stump.Server.BaseServer\bin\Debug\Stump.ORM.pdb
+D:\Ankado V2\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Enums.pdb
+D:\Ankado V2\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.pdb
+D:\Ankado V2\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.dll.config
+D:\Ankado V2\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.pdb
+D:\Ankado V2\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+D:\Ankado V2\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Bson.xml
+D:\Ankado V2\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.xml
+D:\Ankado V2\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.Core.xml
+D:\Ankado V2\server\Stump.Server.BaseServer\bin\Debug\MySql.Data.xml
+D:\Ankado V2\server\Stump.Server.BaseServer\bin\Debug\Newtonsoft.Json.xml
+D:\Ankado V2\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.pdb
+D:\Ankado V2\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.xml
+D:\Ankado V2\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.csprojAssemblyReference.cache
+D:\Ankado V2\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.csproj.CoreCompileInputs.cache
+D:\Ankado V2\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.csproj.CopyComplete
+D:\Ankado V2\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.dll
+D:\Ankado V2\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.pdb
+D:\Ankado V2\ZOWA\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.dll.config
+D:\Ankado V2\ZOWA\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.dll
+D:\Ankado V2\ZOWA\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.pdb
+D:\Ankado V2\ZOWA\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.XML
+D:\Ankado V2\ZOWA\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Bson.dll
+D:\Ankado V2\ZOWA\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.Core.dll
+D:\Ankado V2\ZOWA\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.dll
+D:\Ankado V2\ZOWA\server\Stump.Server.BaseServer\bin\Debug\MySql.Data.dll
+D:\Ankado V2\ZOWA\server\Stump.Server.BaseServer\bin\Debug\Newtonsoft.Json.dll
+D:\Ankado V2\ZOWA\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.dll
+D:\Ankado V2\ZOWA\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.dll
+D:\Ankado V2\ZOWA\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.dll
+D:\Ankado V2\ZOWA\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Enums.dll
+D:\Ankado V2\ZOWA\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.dll
+D:\Ankado V2\ZOWA\server\Stump.Server.BaseServer\bin\Debug\Stump.ORM.dll
+D:\Ankado V2\ZOWA\server\Stump.Server.BaseServer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Ankado V2\ZOWA\server\Stump.Server.BaseServer\bin\Debug\zlib.net.dll
+D:\Ankado V2\ZOWA\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.pdb
+D:\Ankado V2\ZOWA\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.dll.config
+D:\Ankado V2\ZOWA\server\Stump.Server.BaseServer\bin\Debug\Stump.ORM.pdb
+D:\Ankado V2\ZOWA\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Enums.pdb
+D:\Ankado V2\ZOWA\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.pdb
+D:\Ankado V2\ZOWA\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.dll.config
+D:\Ankado V2\ZOWA\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.pdb
+D:\Ankado V2\ZOWA\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+D:\Ankado V2\ZOWA\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Bson.xml
+D:\Ankado V2\ZOWA\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.xml
+D:\Ankado V2\ZOWA\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.Core.xml
+D:\Ankado V2\ZOWA\server\Stump.Server.BaseServer\bin\Debug\MySql.Data.xml
+D:\Ankado V2\ZOWA\server\Stump.Server.BaseServer\bin\Debug\Newtonsoft.Json.xml
+D:\Ankado V2\ZOWA\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.pdb
+D:\Ankado V2\ZOWA\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.xml
+D:\Ankado V2\ZOWA\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.csprojAssemblyReference.cache
+D:\Ankado V2\ZOWA\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.csproj.CoreCompileInputs.cache
+D:\Ankado V2\ZOWA\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.csproj.CopyComplete
+D:\Ankado V2\ZOWA\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.dll
+D:\Ankado V2\ZOWA\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.pdb
+C:\Users\balia\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.dll.config
+C:\Users\balia\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.dll
+C:\Users\balia\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.pdb
+C:\Users\balia\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.XML
+C:\Users\balia\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Bson.dll
+C:\Users\balia\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\balia\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.dll
+C:\Users\balia\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\MySql.Data.dll
+C:\Users\balia\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\balia\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.dll
+C:\Users\balia\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.dll
+C:\Users\balia\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\balia\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\balia\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.dll
+C:\Users\balia\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\Stump.ORM.dll
+C:\Users\balia\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\balia\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\zlib.net.dll
+C:\Users\balia\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.pdb
+C:\Users\balia\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.dll.config
+C:\Users\balia\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\Stump.ORM.pdb
+C:\Users\balia\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\balia\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.pdb
+C:\Users\balia\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.dll.config
+C:\Users\balia\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\balia\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Users\balia\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Bson.xml
+C:\Users\balia\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.xml
+C:\Users\balia\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\balia\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\MySql.Data.xml
+C:\Users\balia\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\balia\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.pdb
+C:\Users\balia\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.xml
+C:\Users\balia\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.csprojAssemblyReference.cache
+C:\Users\balia\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.csproj.CoreCompileInputs.cache
+C:\Users\balia\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.csproj.CopyComplete
+C:\Users\balia\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.dll
+C:\Users\balia\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.dll.config
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.dll
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.XML
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Bson.dll
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.dll
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\MySql.Data.dll
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.dll
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.dll
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.dll
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\Stump.ORM.dll
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\zlib.net.dll
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.pdb
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.dll.config
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\Stump.ORM.pdb
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.pdb
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.dll.config
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Bson.xml
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.xml
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\MySql.Data.xml
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.pdb
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.xml
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.csprojAssemblyReference.cache
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.csproj.CopyComplete
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.dll
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.3(havenbag)\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Vince Whack\Desktop\Emu\Ankacore 1.4 last\Ankacore v1.4\Ankacore v1.4\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.dll.config
+C:\Users\Vince Whack\Desktop\Emu\Ankacore 1.4 last\Ankacore v1.4\Ankacore v1.4\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.dll
+C:\Users\Vince Whack\Desktop\Emu\Ankacore 1.4 last\Ankacore v1.4\Ankacore v1.4\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Vince Whack\Desktop\Emu\Ankacore 1.4 last\Ankacore v1.4\Ankacore v1.4\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.XML
+C:\Users\Vince Whack\Desktop\Emu\Ankacore 1.4 last\Ankacore v1.4\Ankacore v1.4\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Bson.dll
+C:\Users\Vince Whack\Desktop\Emu\Ankacore 1.4 last\Ankacore v1.4\Ankacore v1.4\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Vince Whack\Desktop\Emu\Ankacore 1.4 last\Ankacore v1.4\Ankacore v1.4\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.dll
+C:\Users\Vince Whack\Desktop\Emu\Ankacore 1.4 last\Ankacore v1.4\Ankacore v1.4\server\Stump.Server.BaseServer\bin\Debug\MySql.Data.dll
+C:\Users\Vince Whack\Desktop\Emu\Ankacore 1.4 last\Ankacore v1.4\Ankacore v1.4\server\Stump.Server.BaseServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vince Whack\Desktop\Emu\Ankacore 1.4 last\Ankacore v1.4\Ankacore v1.4\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.dll
+C:\Users\Vince Whack\Desktop\Emu\Ankacore 1.4 last\Ankacore v1.4\Ankacore v1.4\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.dll
+C:\Users\Vince Whack\Desktop\Emu\Ankacore 1.4 last\Ankacore v1.4\Ankacore v1.4\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Vince Whack\Desktop\Emu\Ankacore 1.4 last\Ankacore v1.4\Ankacore v1.4\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Vince Whack\Desktop\Emu\Ankacore 1.4 last\Ankacore v1.4\Ankacore v1.4\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.dll
+C:\Users\Vince Whack\Desktop\Emu\Ankacore 1.4 last\Ankacore v1.4\Ankacore v1.4\server\Stump.Server.BaseServer\bin\Debug\Stump.ORM.dll
+C:\Users\Vince Whack\Desktop\Emu\Ankacore 1.4 last\Ankacore v1.4\Ankacore v1.4\server\Stump.Server.BaseServer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Vince Whack\Desktop\Emu\Ankacore 1.4 last\Ankacore v1.4\Ankacore v1.4\server\Stump.Server.BaseServer\bin\Debug\zlib.net.dll
+C:\Users\Vince Whack\Desktop\Emu\Ankacore 1.4 last\Ankacore v1.4\Ankacore v1.4\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.pdb
+C:\Users\Vince Whack\Desktop\Emu\Ankacore 1.4 last\Ankacore v1.4\Ankacore v1.4\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.dll.config
+C:\Users\Vince Whack\Desktop\Emu\Ankacore 1.4 last\Ankacore v1.4\Ankacore v1.4\server\Stump.Server.BaseServer\bin\Debug\Stump.ORM.pdb
+C:\Users\Vince Whack\Desktop\Emu\Ankacore 1.4 last\Ankacore v1.4\Ankacore v1.4\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Vince Whack\Desktop\Emu\Ankacore 1.4 last\Ankacore v1.4\Ankacore v1.4\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.pdb
+C:\Users\Vince Whack\Desktop\Emu\Ankacore 1.4 last\Ankacore v1.4\Ankacore v1.4\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.dll.config
+C:\Users\Vince Whack\Desktop\Emu\Ankacore 1.4 last\Ankacore v1.4\Ankacore v1.4\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Vince Whack\Desktop\Emu\Ankacore 1.4 last\Ankacore v1.4\Ankacore v1.4\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Users\Vince Whack\Desktop\Emu\Ankacore 1.4 last\Ankacore v1.4\Ankacore v1.4\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Bson.xml
+C:\Users\Vince Whack\Desktop\Emu\Ankacore 1.4 last\Ankacore v1.4\Ankacore v1.4\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.xml
+C:\Users\Vince Whack\Desktop\Emu\Ankacore 1.4 last\Ankacore v1.4\Ankacore v1.4\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Vince Whack\Desktop\Emu\Ankacore 1.4 last\Ankacore v1.4\Ankacore v1.4\server\Stump.Server.BaseServer\bin\Debug\MySql.Data.xml
+C:\Users\Vince Whack\Desktop\Emu\Ankacore 1.4 last\Ankacore v1.4\Ankacore v1.4\server\Stump.Server.BaseServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vince Whack\Desktop\Emu\Ankacore 1.4 last\Ankacore v1.4\Ankacore v1.4\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.pdb
+C:\Users\Vince Whack\Desktop\Emu\Ankacore 1.4 last\Ankacore v1.4\Ankacore v1.4\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.xml
+C:\Users\Vince Whack\Desktop\Emu\Ankacore 1.4 last\Ankacore v1.4\Ankacore v1.4\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.csprojAssemblyReference.cache
+C:\Users\Vince Whack\Desktop\Emu\Ankacore 1.4 last\Ankacore v1.4\Ankacore v1.4\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.csproj.CoreCompileInputs.cache
+C:\Users\Vince Whack\Desktop\Emu\Ankacore 1.4 last\Ankacore v1.4\Ankacore v1.4\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.csproj.CopyComplete
+C:\Users\Vince Whack\Desktop\Emu\Ankacore 1.4 last\Ankacore v1.4\Ankacore v1.4\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.dll
+C:\Users\Vince Whack\Desktop\Emu\Ankacore 1.4 last\Ankacore v1.4\Ankacore v1.4\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.5\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.dll.config
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.5\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.dll
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.5\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.5\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.XML
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.5\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Bson.dll
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.5\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.5\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.dll
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.5\server\Stump.Server.BaseServer\bin\Debug\MySql.Data.dll
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.5\server\Stump.Server.BaseServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.5\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.dll
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.5\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.dll
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.5\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.5\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.5\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.dll
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.5\server\Stump.Server.BaseServer\bin\Debug\Stump.ORM.dll
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.5\server\Stump.Server.BaseServer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.5\server\Stump.Server.BaseServer\bin\Debug\zlib.net.dll
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.5\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.pdb
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.5\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.dll.config
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.5\server\Stump.Server.BaseServer\bin\Debug\Stump.ORM.pdb
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.5\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.5\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.pdb
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.5\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.dll.config
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.5\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.5\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.5\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Bson.xml
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.5\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.xml
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.5\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.5\server\Stump.Server.BaseServer\bin\Debug\MySql.Data.xml
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.5\server\Stump.Server.BaseServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.5\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.pdb
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.5\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.xml
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.5\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.csprojAssemblyReference.cache
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.5\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.5\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.csproj.CopyComplete
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.5\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.dll
+C:\Users\Administrateur.WIN-UT3H45995UJ\Desktop\Ankacore v1.5\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Vince Whack\Desktop\emuAntho\Elyn 2.43 client\Ankacore v1.6\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.dll.config
+C:\Users\Vince Whack\Desktop\emuAntho\Elyn 2.43 client\Ankacore v1.6\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.dll
+C:\Users\Vince Whack\Desktop\emuAntho\Elyn 2.43 client\Ankacore v1.6\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Vince Whack\Desktop\emuAntho\Elyn 2.43 client\Ankacore v1.6\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.XML
+C:\Users\Vince Whack\Desktop\emuAntho\Elyn 2.43 client\Ankacore v1.6\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Bson.dll
+C:\Users\Vince Whack\Desktop\emuAntho\Elyn 2.43 client\Ankacore v1.6\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Vince Whack\Desktop\emuAntho\Elyn 2.43 client\Ankacore v1.6\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.dll
+C:\Users\Vince Whack\Desktop\emuAntho\Elyn 2.43 client\Ankacore v1.6\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\MySql.Data.dll
+C:\Users\Vince Whack\Desktop\emuAntho\Elyn 2.43 client\Ankacore v1.6\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vince Whack\Desktop\emuAntho\Elyn 2.43 client\Ankacore v1.6\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.dll
+C:\Users\Vince Whack\Desktop\emuAntho\Elyn 2.43 client\Ankacore v1.6\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.dll
+C:\Users\Vince Whack\Desktop\emuAntho\Elyn 2.43 client\Ankacore v1.6\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Vince Whack\Desktop\emuAntho\Elyn 2.43 client\Ankacore v1.6\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Vince Whack\Desktop\emuAntho\Elyn 2.43 client\Ankacore v1.6\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.dll
+C:\Users\Vince Whack\Desktop\emuAntho\Elyn 2.43 client\Ankacore v1.6\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\Stump.ORM.dll
+C:\Users\Vince Whack\Desktop\emuAntho\Elyn 2.43 client\Ankacore v1.6\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Vince Whack\Desktop\emuAntho\Elyn 2.43 client\Ankacore v1.6\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\zlib.net.dll
+C:\Users\Vince Whack\Desktop\emuAntho\Elyn 2.43 client\Ankacore v1.6\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.pdb
+C:\Users\Vince Whack\Desktop\emuAntho\Elyn 2.43 client\Ankacore v1.6\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.dll.config
+C:\Users\Vince Whack\Desktop\emuAntho\Elyn 2.43 client\Ankacore v1.6\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\Stump.ORM.pdb
+C:\Users\Vince Whack\Desktop\emuAntho\Elyn 2.43 client\Ankacore v1.6\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Vince Whack\Desktop\emuAntho\Elyn 2.43 client\Ankacore v1.6\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.pdb
+C:\Users\Vince Whack\Desktop\emuAntho\Elyn 2.43 client\Ankacore v1.6\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.dll.config
+C:\Users\Vince Whack\Desktop\emuAntho\Elyn 2.43 client\Ankacore v1.6\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Vince Whack\Desktop\emuAntho\Elyn 2.43 client\Ankacore v1.6\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Users\Vince Whack\Desktop\emuAntho\Elyn 2.43 client\Ankacore v1.6\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Bson.xml
+C:\Users\Vince Whack\Desktop\emuAntho\Elyn 2.43 client\Ankacore v1.6\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.xml
+C:\Users\Vince Whack\Desktop\emuAntho\Elyn 2.43 client\Ankacore v1.6\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Vince Whack\Desktop\emuAntho\Elyn 2.43 client\Ankacore v1.6\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\MySql.Data.xml
+C:\Users\Vince Whack\Desktop\emuAntho\Elyn 2.43 client\Ankacore v1.6\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vince Whack\Desktop\emuAntho\Elyn 2.43 client\Ankacore v1.6\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.pdb
+C:\Users\Vince Whack\Desktop\emuAntho\Elyn 2.43 client\Ankacore v1.6\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.xml
+C:\Users\Vince Whack\Desktop\emuAntho\Elyn 2.43 client\Ankacore v1.6\Ankacore v1.6\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.csprojAssemblyReference.cache
+C:\Users\Vince Whack\Desktop\emuAntho\Elyn 2.43 client\Ankacore v1.6\Ankacore v1.6\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.csproj.CoreCompileInputs.cache
+C:\Users\Vince Whack\Desktop\emuAntho\Elyn 2.43 client\Ankacore v1.6\Ankacore v1.6\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.csproj.CopyComplete
+C:\Users\Vince Whack\Desktop\emuAntho\Elyn 2.43 client\Ankacore v1.6\Ankacore v1.6\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.dll
+C:\Users\Vince Whack\Desktop\emuAntho\Elyn 2.43 client\Ankacore v1.6\Ankacore v1.6\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.dll.config
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.dll
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.XML
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Bson.dll
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.dll
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\MySql.Data.dll
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.dll
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.dll
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.dll
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\Stump.ORM.dll
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\zlib.net.dll
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\Google.Protobuf.dll
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.pdb
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.dll.config
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\Stump.ORM.pdb
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.pdb
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.dll.config
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Bson.xml
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.xml
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\MySql.Data.xml
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.pdb
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.xml
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.csprojAssemblyReference.cache
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.csproj.CoreCompileInputs.cache
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.csproj.CopyComplete
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.dll
+C:\Users\Pc_Hp\Documents\MEGAsync Downloads\Ankacore v1.6\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.dll.config
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.dll
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\server\Stump.Server.BaseServer\bin\Debug\Stump.Server.BaseServer.XML
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Bson.dll
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.dll
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\server\Stump.Server.BaseServer\bin\Debug\MySql.Data.dll
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\server\Stump.Server.BaseServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.dll
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.dll
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.dll
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\server\Stump.Server.BaseServer\bin\Debug\Stump.ORM.dll
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\server\Stump.Server.BaseServer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\server\Stump.Server.BaseServer\bin\Debug\zlib.net.dll
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\server\Stump.Server.BaseServer\bin\Debug\Google.Protobuf.dll
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.pdb
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\server\Stump.Server.BaseServer\bin\Debug\Stump.Core.dll.config
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\server\Stump.Server.BaseServer\bin\Debug\Stump.ORM.pdb
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.pdb
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Messages.dll.config
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\server\Stump.Server.BaseServer\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Bson.xml
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.xml
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\server\Stump.Server.BaseServer\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\server\Stump.Server.BaseServer\bin\Debug\MySql.Data.xml
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\server\Stump.Server.BaseServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.pdb
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\server\Stump.Server.BaseServer\bin\Debug\SharpRaven.xml
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.csprojAssemblyReference.cache
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.csproj.CoreCompileInputs.cache
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.csproj.CopyComplete
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.dll
+C:\Users\Pc_Hp\Desktop\Projet Avalone 2.43\Avalone\Emulateur Avalone\server\Stump.Server.BaseServer\obj\Debug\Stump.Server.BaseServer.pdb
