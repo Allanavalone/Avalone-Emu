@@ -71,7 +71,7 @@ je ne vous cite pas tout mes si vous aviez connue Dofus 2.43 c'est basé sur ça
 **Mine toute disponible !**
 il faut Ajouté des PNJ pour la téléportations dans les mine comme l'officiel
 * 	Amakna Mine Yjupe [0,-3]
-*       Amakna Mine Istairameur [-3,9]
+*Amakna Mine Istairameur [-3,9]
 * 	Amakna Soutterains 2 [4,28]
 * 	Amakna Territoire des Porcos [1,32]
 * 	Mine Gisboul [-17,21]
