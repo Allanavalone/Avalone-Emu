@@ -156,7 +156,7 @@ il faut Ajouté des PNJ pour la téléportations dans les mine comme l'officiel
 **le forum.** http://forum-avalone.epizy.com/
 
 
-**Amélioration faite part** > LES NOM ?  PRIVE attente de confirmations
+**Amélioration faite part** > Allan Dys Dragon Captain
 
 **PS:** Désolé pour les faute de frappe :D 
 UN MERCI NE TUE PAS ;) 
