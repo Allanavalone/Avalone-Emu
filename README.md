@@ -1,6 +1,7 @@
 **Projet Communautaire Avalone
 partagé gratuitement part l'équipe** 
 -
+**Aucun support ! je mettrai à jours, quand j'ai du temps libres > Base de donné / Emulateur.
 
 **Pourquoi le partagé ?** 
 _Alors tout simplement parce-que nous passons sur une version 2.51
@@ -25,9 +26,10 @@ je ne vous cite pas tout mes si vous aviez connue Dofus 2.43 c'est basé sur ça
 *  Achat/Vente via les Hotel de vente comme l'officiel.
 *  Tout les métier, atelier disponible.
 *  Brisé des objet fusionné vos ressource pour récolté vos rune , pierre ) . 
+* Récolte
 * Capture Muldo & DD. sort + filet 
 * Bourse de kamas, coffre.
-* Guilde
+* Guilde Percepteur
 * Mode marchand
 * Compagnion
 * Amis
@@ -44,6 +46,14 @@ je ne vous cite pas tout mes si vous aviez connue Dofus 2.43 c'est basé sur ça
 *  Kolizeum 1vs1 3vs3
 *  Les havre Sac
 *  Les Costumes
+*  Montilier
+*  Familier
+*  Muldo
+*  Bouclier
+* Idoles 
+*  Coup fatal
+*  Emote / Attitude 
+*  Incarnations
 *  Tout les dofus fixe (Ivoir debug) 
 *  Les item d'apparat
 *  Drop comme l'officiel 2.43
@@ -55,6 +65,8 @@ je ne vous cite pas tout mes si vous aviez connue Dofus 2.43 c'est basé sur ça
 *  prévisualisation des dommages
 *  Atelier Forgemage debug à 100% ( sauf Façonnage !)
 *  Commande VIP
+// Possibilité de retirée les PNJ HDV pour faire des PNJ Boutique Kamas / Ogrine ( PB )
+// Le reste à vous de le découvrir
 
 **Mine toute disponible !**
 il faut Ajouté des PNJ pour la téléportations dans les mine comme l'officiel
@@ -134,15 +146,16 @@ il faut Ajouté des PNJ pour la téléportations dans les mine comme l'officiel
 
 +
 
-## Vous avait ici un émulateur qui vos entre. 200 à 300 euro.
+## Vous avait ici un émulateur qui vos entre. 100 à 150 euro. peut étre plusse :D 
 ## la source les debug la base de donné. 1 ans de travaille partagé gratuitement.
 ## Pour évité des arnaque faite attentions !!! 
-## Notre projet risque d’être téléchargé modifier pour être vendu part des membres dans l'emulations, alors que les modifications ne seront que des connerie. :D
+## Notre projet risque d’être téléchargé modifier pour être vendu part des membres dans l'emulations, alors faite bien attentions sur le prix pour quelque ajoute / debug, faite part la personne :D
 
 **Pour toute question voici le discord.** https://discord.gg/CVxt2UE
 **le forum.** http://forum-avalone.epizy.com/
 
 
-**Amélioration faite part l'équipe** > Allan, Dyshay, Dragon, Captain
+**Amélioration faite part** > LES NOM ?  PRIVE attente de confirmations
 
 **PS:** Désolé pour les faute de frappe :D 
+UN MERCI NE TUE PAS ;) 
