@@ -17,48 +17,48 @@ partagé ce qui est déjà partagé un peut inutile, alors pourquoi ne pas trava
 _Un serveur comme l'officiel 2.43.
 je ne vous cite pas tout mes si vous aviez connue Dofus 2.43 c'est basé sur ça_
 
-Transition Mine incarname et autre zone corriger.
- Certaines zones on était refaite de A a Z niveau monstre et drop.
- Plusieurs ressources on était ajouté. 
- Les Monstre on l'a bonne apparence.
- ajoute des clé au PNJ Hotel de vente.
- Achat/Vente via les Hotel de vente comme l'officiel.
- Tout les métier, atelier disponible.
- Brisé des objet fusionné vos ressource pour récolté vos rune , pierre ) . 
-Capture Muldo & DD. sort + filet 
-Bourse de kamas, coffre.
-Guilde
-Mode marchand
-Compagnion
-Amis
-Banque 
-Enclos
- Tout les Donjons Modulaire.
- Chat comme l'officiel.
- Tout les Zaap Zaapi ( utilisé / Sauvegardé )
- Ajout des Dopeul
- la Tour des Voyageurs est disponible
- Nimotopia & L'île de Nowel disponible évent comme l'officiel
- Succès avec récompense ( Kamas, Ressource, Expérience, Titre, Ornement )
- Toute les maps disponible (  Sidimote et les alentour Volcan mine etc) 
- Kolizeum 1vs1 3vs3
- Les havre Sac
- Les Costumes
- Tout les dofus fixe (Ivoir debug) 
- Les item d'apparat
- Drop comme l'officiel 2.43
- Item comme l'officiel 2.51 ( il faut ajouté les id etc du d2o et d2i de la 2.51 pour l'ajoute au client 2.43)
- Plusieurs titres et ornements
- Ajout du .donjon qui vous ouvre une interface similaire au zaap mais pour les donjons
- Ajout du .tp qui vous ouvre une interface similaire au zaap pour les map
- Ajout d'annonce en jeu automatique :
- prévisualisation des dommages
- Atelier Forgemage debug à 100% ( sauf Façonnage !)
- Commande VIP
+* Transition Mine incarname et autre zone corriger.
+*  Certaines zones on était refaite de A a Z niveau monstre et drop.
+*  Plusieurs ressources on était ajouté. 
+*  Les Monstre on l'a bonne apparence.
+*  ajoute des clé au PNJ Hotel de vente.
+*  Achat/Vente via les Hotel de vente comme l'officiel.
+*  Tout les métier, atelier disponible.
+*  Brisé des objet fusionné vos ressource pour récolté vos rune , pierre ) . 
+* Capture Muldo & DD. sort + filet 
+* Bourse de kamas, coffre.
+* Guilde
+* Mode marchand
+* Compagnion
+* Amis
+* Banque 
+* Enclos
+*  Tout les Donjons Modulaire.
+*  Chat comme l'officiel.
+*  Tout les Zaap Zaapi ( utilisé / Sauvegardé )
+*  Ajout des Dopeul
+*  la Tour des Voyageurs est disponible
+*  Nimotopia & L'île de Nowel disponible évent comme l'officiel
+*  Succès avec récompense ( Kamas, Ressource, Expérience, Titre, Ornement )
+*  Toute les maps disponible (  Sidimote et les alentour Volcan mine etc) 
+*  Kolizeum 1vs1 3vs3
+*  Les havre Sac
+*  Les Costumes
+*  Tout les dofus fixe (Ivoir debug) 
+*  Les item d'apparat
+*  Drop comme l'officiel 2.43
+*  Item comme l'officiel 2.51 ( il faut ajouté les id etc du d2o et d2i de la 2.51 pour l'ajoute au client 2.43)
+*  Plusieurs titres et ornements
+*  Ajout du .donjon qui vous ouvre une interface similaire au zaap mais pour les donjons
+*  Ajout du .tp qui vous ouvre une interface similaire au zaap pour les map
+*  Ajout d'annonce en jeu automatique :
+*  prévisualisation des dommages
+*  Atelier Forgemage debug à 100% ( sauf Façonnage !)
+*  Commande VIP
 
 **Mine toute disponible !**
 il faut Ajouté des PNJ pour la téléportations dans les mine comme l'officiel
-	* Amakna Mine Istairameur [-3,9]
+*       Amakna Mine Istairameur [-3,9]
 * 	Amakna Mine Yjupe [0,-3]
 * 	Amakna Soutterains 2 [4,28]
 * 	Amakna Territoire des Porcos [1,32]
@@ -75,7 +75,7 @@ il faut Ajouté des PNJ pour la téléportations dans les mine comme l'officiel
 * 	Mine Baie de Cania [-29,-10]
 * 	Mine Village des Dopeuls [-32,-8]
 * 	Mine plaine de cania [-22,-27]
-*     Plaine de Cania ( Route de la Roche) [-20,-34]
+* Plaine de Cania ( Route de la Roche) [-20,-34]
 
  **_Utilisé les métier pour augmenté votre niveau, profité des métier pour acheté, vendre, farm, crée vos item.
  Les PNJ vendeur d'items et d'armes ont été retiré. A vous de crafter vos items_**
